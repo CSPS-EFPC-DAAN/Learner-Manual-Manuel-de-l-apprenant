@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## TOM! This is where the welcome page will be! Let's embed the video here!
 
 You can use the [editor on GitHub](https://github.com/ashlevans/premium/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
