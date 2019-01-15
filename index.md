@@ -10,8 +10,8 @@ To get you started, we’ve created a short video to tell you a bit about your f
 
 # Welcome to CSPS Premium - Digital Academy
 
-1. Important Dates: Premium Launch Party & your first class
-2. Preparing for your first class
+1. Important Dates:Premium Launch Party & your first class
+2. Preparing for your first class)
 - Course Materials
 - Getting There
 - Logistics
@@ -32,7 +32,7 @@ You will meet your fellow Premium colleagues, members of the Digital Academy tea
 ### First Day of CSPS Premium
 * Thursday, January 31, 2019
 * 9:00 AM - 4:00 PM
-* John G. Diefenbaker Building, 111 Sussex St., 2nd floor
+* [John G. Diefenbaker Building](https://www.google.ca/maps/place/111+Sussex+Dr,+Ottawa,+ON/@45.4405741,-75.694697,3a,75y,213.47h,82.77t/data=!3m6!1e1!3m4!1sRipgGcRxFEzyNXYZom_hng!2e0!7i13312!8i6656!4m5!3m4!1s0x4cce04e7311278bd:0xe7e0273285ee6f32!8m2!3d45.4396305!4d-75.693755), 111 Sussex St., 2nd floor
 
 To start, we’ll hear from [SPEAKER 1], [DESCRIPTION] and [SPEAKER 2], [DESCRIPTION]. You will learn more about the Premium experience, meet colleagues from both the data and AI/ML cohorts, and set-up your Microsoft Surface.
 
@@ -75,8 +75,8 @@ Government of Canada:
 ### b. Online Tools & Platforms
 
 Throughout your Premium experience, you will access to:
-- _Slack_, for chatting with your cohort. Join the Premium data channel, Premium AI/ML channel, and the general channel for all Premium learners.
-- _GitHub_, for modules and scripts. Check out the CSPS Github page and watch the Premium Github repositories, too.
+- [_Slack_](https://slack.com), for chatting with your cohort. Join the Premium data channel, Premium AI/ML channel, and the general channel for all Premium learners.
+- [_GitHub_](https://github.com), for modules and scripts. Check out the CSPS Github page and watch the Premium Github repositories, too.
 - _Moodle_, for accessing course materials. You will soon receive a separate email with a link, username, and password to gain access.
 - _StackOverflow_, for Q&A. Access our private Premium community here.
 - _Textit_ to improve your Premium experience. This is the first time Premium is being launched: your insights on topics, content, course modules, and your overall experience are highly valuable!
@@ -89,11 +89,11 @@ Throughout your Premium experience, you will access to:
 
 ## 3. Logistics
 
-- Security: You must have your valid government ID card with you for entry into the building and at all times while onsite.
-- Food Services: A cafeteria is available on site. It is open daily from 7:00 am to 3:00 pm.
-- Dress Code: Casual. Bring a sweater or jacket to ensure your comfort.
-- Allergies: Some participants attending the course may suffer from environmental sensitivities. Please refrain from using fragranced products for the duration of the course.
-- Accommodations: Please contact csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca 
+- **Security**: You must have your valid government ID card with you for entry into the building and at all times while onsite.
+- **Food Services**: A cafeteria is available on site. It is open daily from 7:00 am to 3:00 pm.
+- **Dress Code**: Casual. Bring a sweater or jacket to ensure your comfort.
+- **Allergies**: Some participants attending the course may suffer from environmental sensitivities. Please refrain from using fragranced products for the duration of the course.
+- **Accommodations**: Please contact csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca 
 if you require special accommodation.
 
 *************************
@@ -102,10 +102,10 @@ if you require special accommodation.
 
 Keep up to date with Canada’s Digital Academy through:
 - [Our Mailing List](http://github.com)
-- GCcollab
-- Twitter
-- LinkedIn
-- Bus Rides, Digital Academy’s engagement platform (in development)
+- [GCcollab](https://gccollab.ca/groups/profile/1316691/endigital-academyfracadu00e9mie-du-numu00e9rique)
+- [Twitter](https://twitter.com/DigiAcademyCAN)
+- [LinkedIn](https://www.linkedin.com/company/csps-digiacademy-acadenum-efpc/)
+- [Bus Rides](https://en.busrides-trajetsenbus.ca/), Digital Academy’s engagement platform (in development)
 
 *************************
 
@@ -123,7 +123,9 @@ We have a few last questions before your Premium experiences begins:
 -What’s your sweater size? Let us know (XS-XXL).
 -What information would you like on your NFC business card? Share your title, organization, and team name (and if you’d like to include it, your Twitter handle).
 
-4. Do you have any allergies (food, environmental, other)? Let us know.
+4. Do you have any allergies (food, environmental, other)?
+
+Please answer the above questions and send a message to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca> by Friday, January 25.
 
 *************************
 
