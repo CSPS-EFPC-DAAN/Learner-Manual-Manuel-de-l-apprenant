@@ -4,7 +4,7 @@ You’ve been selected to participate in the first Data and Artificial Intellige
 
 To get you started, we’ve created a short video to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
 
-[Video](url)
+[![IMAGE ALT TEXT HERE](https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 *************************
 
@@ -120,8 +120,8 @@ We have a few last questions before your Premium experiences begins:
 2. Fill out your “user manual for me” (attached), a guide for your professors and fellow learners to understand how you like to learn and work. Bullet points or a few sentences per question will do. The “manuals” will be shown at the launch party and will be available online by the first day of class. 
 
 3. As learners of Premium’s first cohort, you’ll be receiving some fun gear:
--What’s your sweater size? Let us know (XS-XXL).
--What information would you like on your NFC business card? Share your title, organization, and team name (and if you’d like to include it, your Twitter handle).
+- What’s your sweater size? Let us know (XS-XXL).
+- What information would you like on your NFC business card? Share your title, organization, and team name (and if you’d like to include it, your Twitter handle).
 
 4. Do you have any allergies (food, environmental, other)?
 
