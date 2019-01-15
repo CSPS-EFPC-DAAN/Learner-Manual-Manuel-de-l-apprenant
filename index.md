@@ -1,6 +1,10 @@
-## TOM! This is where the welcome page will be! Let's embed the video here!
+#Congragulations!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You’ve been selected to participate in the first [topic] cohort of CSPS Premium – Digital Academy being piloted at the Canada School of the Public Service.
+
+To get you started, we’ve created a short video to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
+
+[Video](url)
 
 ### Markdown
 
@@ -12,6 +16,9 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+
+
+*********
 
 - Bulleted
 - List
