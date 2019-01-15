@@ -25,9 +25,9 @@ To get you started, we’ve created a short video to tell you a bit about your f
 ### CSPS Premium Launch Party
 * Tuesday, January 29, 2019
 * 4:00 - 6:00 PM
-* Digital Academy Headquarters, 66 Slater St., 3rd floor
+* [Digital Academy Headquarters](https://www.google.ca/maps/@45.4216695,-75.6942864,3a,75y,159.85h,95.12t/data=!3m7!1e1!3m5!1soLka23a3BM5HUHjLsFZ4hA!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DoLka23a3BM5HUHjLsFZ4hA%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D259.15222%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656), 66 Slater St., 3rd floor
 
-You will meet your fellow Premium colleagues, members of the Digital Academy team, and some special guests, then try your hand at virtual reality technology. Let us know that you’ll be attending by Friday, January 25.
+You will meet your fellow Premium colleagues, members of the Digital Academy team, and some special guests, then try your hand at virtual reality technology. [Let us know that you’ll be attending by Friday, January 25](csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca).
 
 ### First Day of CSPS Premium
 * Thursday, January 31, 2019
@@ -96,10 +96,12 @@ Throughout your Premium experience, you will access to:
 - Accommodations: Please contact csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca 
 if you require special accommodation.
 
+*************************
+
 ## 4. Stay in Touch
 
 Keep up to date with Canada’s Digital Academy through:
-- Our mailing list
+- [Our Mailing List](http://github.com)
 - GCcollab
 - Twitter
 - LinkedIn
@@ -110,14 +112,20 @@ Keep up to date with Canada’s Digital Academy through:
 ## 5. For Your Action
 
 As stated earlier in the Welcome package, be sure to review the preparatory materials.
+
 We have a few last questions before your Premium experiences begins:
 
 1. Will you be attending the Premium launch party on Tuesday, January 29?
+
 2. Fill out your “user manual for me” (attached), a guide for your professors and fellow learners to understand how you like to learn and work. Bullet points or a few sentences per question will do. The “manuals” will be shown at the launch party and will be available online by the first day of class. 
+
 3. As learners of Premium’s first cohort, you’ll be receiving some fun gear:
 -What’s your sweater size? Let us know (XS-XXL).
 -What information would you like on your NFC business card? Share your title, organization, and team name (and if you’d like to include it, your Twitter handle).
+
 4. Do you have any allergies (food, environmental, other)? Let us know.
+
+*************************
 
 Should you have any questions, please contact us at csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca.
 
