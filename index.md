@@ -39,9 +39,11 @@ Lunch will be on us - gluten free and vegan options will be available.
 In the afternoon, your in-class experience begins with data science universals, including some history, ethical considerations, best practices, and workflows.
 
 ### CSPS Premium (Every Thursday starting on Thursday, January 31)
-**Every Thursday from January 31, 2019 to May 2, 2019
-9:00 AM - 4:00 PM
-John G. Diefenbaker Building, 111 Sussex St, 2nd floor**
+**Every Thursday from January 31, 2019 to May 2, 2019**
+
+**9:00 AM - 4:00 PM**
+
+**John G. Diefenbaker Building, 111 Sussex St, 2nd floor**
 
 Below is a tentative schedule for Thursday's to come:
 
@@ -66,7 +68,7 @@ The Rise of Artificial Intelligence through Deep Learning
 
 https://www.youtube.com/watch?v=uawLjkSI7Mo
 
-### Online Tools & Platforms
+### b. Online Tools & Platforms
 
 Throughout your Premium experience, you will access to:
 - _Slack_, for chatting with your cohort. Join the Premium data channel, Premium AI/ML channel, and the general channel for all Premium learners.
@@ -75,11 +77,11 @@ Throughout your Premium experience, you will access to:
 - _StackOverflow_, for Q&A. Access our private Premium community here.
 - _Textit_ to improve your Premium experience. This is the first time Premium is being launched: your insights on topics, content, course modules, and your overall experience are highly valuable!
 
-### Getting There
+### c. Getting There
 
 111 Sussex does offer paid underground parking but spaces are limited. We encourage you to use the various public transport options available. For more information, visit the OC Transpo and  Société de transport de l’Outaouais (STO) sites. We generally recommend that participants request and bring taxi chit to get from their work location to 111 Sussex. 
 
-### Logistics
+## 3. Logistics
 
 -Security: You must have your valid government ID card with you for entry into the building and at all times while onsite.
 -Food Services: A cafeteria is available on site. It is open daily from 7:00 am to 3:00 pm.
@@ -88,7 +90,7 @@ Throughout your Premium experience, you will access to:
 -Accommodations: Please contact csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca 
 if you require special accommodation.
 
-## Stay in Touch
+## 4. Stay in Touch
 
 Keep up to date with Canada’s Digital Academy through:
 -Our mailing list
