@@ -66,7 +66,7 @@ Keep up to date with Canada’s Digital Academy through:
 We have a few last questions before your Digital Academy experience begins:
  
 1. **Will you be attending the Premium launch party on Tuesday, January 29?** An Outlook invitation will be sent shortly. Please confirm your attendance by Friday, January 25.
-2. **Fill out your [learner manual for me]**(https://wiki.gccollab.ca/File:Digital_Academy_Premium_-_Learner_Profile_Template_BIL.docx), a guide for your professors and fellow learners to understand how you like to learn and work. Bullet points or a few sentences per question will do. The “manuals” will be shown at the launch party on January 29th and will be available online by the first day of class.
+2. **Fill out your [learner manual for me]**(/https://wiki.gccollab.ca/File:Digital_Academy_Premium_-_Learner_Profile_Template_BIL.docx), a guide for your professors and fellow learners to understand how you like to learn and work. Bullet points or a few sentences per question will do. The “manuals” will be shown at the launch party on January 29th and will be available online by the first day of class.
 3. As learners of Premium’s first cohort, you’ll be receiving some fun gear. **What’s your sweater size?** XS-XXL.
 4. **Do you have any allergies (food, environmental, other)?**
 
