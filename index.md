@@ -70,7 +70,7 @@ We have a few last questions before your Digital Academy experience begins:
 3. As learners of Premium’s first cohort, you’ll be receiving some fun gear. **What’s your sweater size?** XS-XXL.
 4. **Do you have any allergies (food, environmental, other)?**
 
-Please send your “learner manual for me” and answers to the above by Friday, January 25 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.
+Please send your “learner manual for me” and answers by Friday, January 25 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.
 
 Should you have any questions, please contact us at the Digital Academy.
  
