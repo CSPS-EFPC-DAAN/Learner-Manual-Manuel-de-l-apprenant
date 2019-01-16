@@ -38,7 +38,6 @@ Throughout your Premium experience, you will access to:
 - [_Slack_](https://slack.com), for chatting with your cohort.
 - [_GitHub_](https://github.com), for modules and scripts.
 - _Moodle_, for accessing course materials. You will soon receive a separate email with a link, username, and password to gain access.
-- _StackOverflow_, for Q&A. Access our private Premium community here.
 - _Textit_ to improve your Premium experience. Since you are part of the beta cohort, your insights on topics, content, course modules and overall experience will be highly valuable!
 
 ## Logistics
@@ -66,10 +65,10 @@ Keep up to date with Canada’s Digital Academy through:
 
 We have a few last questions before your Digital Academy experience begins:
  
-1. Will you be attending the Premium launch party on Tuesday, January 29? An Outlook invitation will be sent shortly. Please confirm your attendance by Friday, January 25.
-2. Fill out your “learner manual for me” (attached), a guide for your professors and fellow learners to understand how you like to learn and work. Bullet points or a few sentences per question will do. The “manuals” will be shown at the launch party on January 29th and will be available online by the first day of class.
-3. As learners of Premium’s first cohort, you’ll be receiving some fun gear. What’s your sweater size? XS-XXL.
-4. Do you have any allergies (food, environmental, other)?
+1. **Will you be attending the Premium launch party on Tuesday, January 29?** An Outlook invitation will be sent shortly. Please confirm your attendance by Friday, January 25.
+2. **Fill out your “learner manual for me”**, a guide for your professors and fellow learners to understand how you like to learn and work. Bullet points or a few sentences per question will do. The “manuals” will be shown at the launch party on January 29th and will be available online by the first day of class.
+3. As learners of Premium’s first cohort, you’ll be receiving some fun gear. **What’s your sweater size?** XS-XXL.
+4. **Do you have any allergies (food, environmental, other)?**
 
 Please send your “learner manual for me” and answers to the above by Friday, January 25 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.
 
