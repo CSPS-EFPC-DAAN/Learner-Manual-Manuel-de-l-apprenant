@@ -1,7 +1,7 @@
 # Welcome to CSPS Digital Academy - Premium
 # Congratulations!
 
-You’ve been selected to participate in the cohort of **CSPS Digital Academy** – Premium, being piloted at the **Canada School of the Public Service**.
+You’ve been selected to participate in the first cohort of the **Canada School of the Public Service Digital Academy – Premium** pilot!
 
 To get you started, we’ve created a [short video](https://www.youtube.com/user/MySchoolMonEcole) to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
 
@@ -73,8 +73,6 @@ We have a few last questions before your Digital Academy experience begins:
 6. **Do you have any allergies (food, environmental, other)?**
 
 [Please send your “learner manual for me”, release form, and answers to the above by Friday, January 25.](csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca)
-
-We have a few last questions before your Digital Academy experience begins:
 
 Should you have any questions, please contact us at the [Digital Academy](csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca).
  
