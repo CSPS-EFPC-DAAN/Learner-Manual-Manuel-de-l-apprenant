@@ -9,7 +9,7 @@ To get you started, we’ve created a short video to tell you a bit about your f
 
 *************************
 
-## Launch Party
+## Premium Networking Event
 * Tuesday, January 29, 2019
 * 5:00 - 7:00 PM
 * [Digital Academy Headquarters](https://www.google.ca/maps/@45.4216695,-75.6942864,3a,75y,159.85h,95.12t/data=!3m7!1e1!3m5!1soLka23a3BM5HUHjLsFZ4hA!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DoLka23a3BM5HUHjLsFZ4hA%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D259.15222%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656), 66 Slater St., 3rd floor
@@ -66,10 +66,11 @@ Keep up to date with Canada’s Digital Academy through:
 We have a few last questions before your Digital Academy experience begins:
  
 1. **Will you be attending the Premium launch party on Tuesday, January 29?** An Outlook invitation will be sent shortly. Please confirm your attendance by Friday, January 25.
-2. **Fill out your learner manual for me**, a guide for your professors and fellow learners to understand how you like to learn and work. Bullet points or a few sentences per question will do. The “manuals” will be shown at the launch party on January 29th and will be available online by the first day of class.
-3. **We will be taking photos and videos throughout the Premium experience**. Some photos may be used for social media purposes. If you’re comfortable with that, please let us know.
-4. As learners of Premium’s first cohort, you’ll be receiving some fun gear. Please specify whether you’d like a men’s or women’s sweater and in which size.
-5. **Do you have any allergies (food, environmental, other)?**
+2. **Fill out your learner manual for me**, a guide for your professors and other learners to understand how you like to learn and work. The manuals will be shown at the Networking event on January 29th and will be available online by the first day of class.
+3. **We will be taking photos and videos throughout the Premium experience**. Some photos may be used for social media purposes. If this works for you, please sign the attached release form.
+4. **Please provide a photo of yourself** - a headshot or a casual photo will do - to put a face to a name of other learners that much quicker.
+5. As learners of Premium’s first cohort, you’ll be receiving some fun gear. Please specify whether you’d like a men’s or women’s sweater and in which size.
+6. **Do you have any allergies (food, environmental, other)?**
 
 Please send your “learner manual for me”, release form, and answers to the above by Friday, January 25 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.
 
