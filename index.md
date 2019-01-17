@@ -3,9 +3,9 @@
 
 You’ve been selected to participate in the cohort of **CSPS Digital Academy** – Premium, being piloted at the **Canada School of the Public Service**.
 
-To get you started, we’ve created a short video to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
+To get you started, we’ve created a [short video](https://www.youtube.com/user/MySchoolMonEcole) to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
 
-[![IMAGE ALT TEXT HERE](https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://wiki.gccollab.ca/images/c/c2/DA_Window_-_AN_fenetre.jpeg)](https://www.youtube.com/user/MySchoolMonEcole)
 
 *************************
 
@@ -66,7 +66,7 @@ Keep up to date with Canada’s Digital Academy through:
 We have a few last questions before your Digital Academy experience begins:
  
 1. **Will you be attending the Premium launch party on Tuesday, January 29?** An Outlook invitation will be sent shortly. Please confirm your attendance by Friday, January 25.
-2. **Fill out your learner manual for me**, a guide for your professors and other learners to understand how you like to learn and work. The manuals will be shown at the Networking event on January 29th and will be available online by the first day of class.
+2. **Fill out your [learner manual for me](https://github.com/ashlevans/CSPS-Digital-Academy-Premium/blob/master/Premium%20Learner%20Profile%20Template%20-%20Modèle%20de%20profil%20d'apprenant%20d'Excellence.docx)**, a guide for your professors and other learners to understand how you like to learn and work. The manuals will be shown at the Networking event on January 29th and will be available online by the first day of class.
 3. **We will be taking photos and videos throughout the Premium experience**. Some photos may be used for social media purposes. If this works for you, please sign the attached release form.
 4. **Please provide a photo of yourself** - a headshot or a casual photo will do - to put a face to a name of other learners that much quicker.
 5. As learners of Premium’s first cohort, you’ll be receiving some fun gear. Please specify whether you’d like a men’s or women’s sweater and in which size.
