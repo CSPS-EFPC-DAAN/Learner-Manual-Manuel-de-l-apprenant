@@ -5,7 +5,7 @@ You’ve been selected to participate in the first cohort of the **Canada School
 
 To get you started, we’ve created a [short video](https://www.youtube.com/user/MySchoolMonEcole) to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
 
-[![IMAGE ALT TEXT HERE](https://wiki.gccollab.ca/images/c/c2/DA_Window_-_AN_fenetre.jpeg)](https://www.youtube.com/user/MySchoolMonEcole)
+[![IMAGE ALT TEXT HERE](https://wiki.gccollab.ca/images/9/9b/BIL_Colour_-_EN_Top.png)](https://www.youtube.com/user/MySchoolMonEcole)
 
 *************************
 
