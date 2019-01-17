@@ -77,5 +77,3 @@ We have a few last questions before your Digital Academy experience begins:
 Should you have any questions, please contact us at the [Digital Academy](csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca).
  
 Thank you for participating in the beta cohort of the CSPS Digital Academy - Premium! We look forward to meeting you soon.
-
-[![IMAGE ALT TEXT HERE](https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
