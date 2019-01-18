@@ -7,7 +7,7 @@ You’ve been selected to participate in the first Data and AI/ML cohorts of the
 
 To get you started, we’ve created a [quick video](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be) to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
 
-[![IWindow looking into the Digital Academy's office space.](https://wiki.gccollab.ca/images/5/5b/DA_window_3.jpg)](https://youtu.be/SEr3ANrocgg)
+[![IWindow looking into the Digital Academy's office space.](https://wiki.gccollab.ca/images/5/5b/DA_window_3.jpg)](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be)
 
 *************************
 
@@ -93,7 +93,7 @@ Vous avez été choisi pour faire partie aux premières groupes de données et d
 
 Pour commencer, nous avons créé une [courte vidéo](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be) pour vous parler un peu des premiers événements d’Excellence. Tout commence le mardi 29 janvier!
 
-[![Fenêtre donnant sur le bureau de l’Académie du numérique.](https://wiki.gccollab.ca/images/5/5b/DA_window_3.jpg)](https://youtu.be/SEr3ANrocgg)
+[![Fenêtre donnant sur le bureau de l’Académie du numérique.](https://wiki.gccollab.ca/images/5/5b/DA_window_3.jpg)](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be)
 
 *************************
 
