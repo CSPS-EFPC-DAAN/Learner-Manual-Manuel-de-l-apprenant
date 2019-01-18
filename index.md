@@ -47,7 +47,7 @@ Throughout your Premium experience, you will access:
 - **Food Services**: A cafeteria is available on site. It is open daily from 7:00 am to 3:00 pm.
 - **Dress Code**: Casual. Bring a sweater or jacket to ensure your comfort.
 - **Allergies**: Some participants attending the course may suffer from environmental sensitivities. Please refrain from using fragranced products for the duration of the course.
-- **Accommodations**: Please contact [us](csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca) 
+- **Accommodations**: [Please contact us](csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca) 
 if you require special accommodation.
 
 # Stay in Touch
@@ -66,7 +66,7 @@ Keep up to date with Canada’s Digital Academy through:
 We have a few last questions before your Digital Academy experience begins:
  
 1. **Will you be attending the Premium Networking Event on Tuesday, January 29?** An Outlook invitation will be sent shortly. Please confirm your attendance by Friday, January 25.
-2. **Fill out your [learner manual for me](https://github.com/ashlevans/CSPS-Digital-Academy-Premium/blob/master/Premium%20Learner%20Profile%20Template%20-%20Modèle%20de%20profil%20d'apprenant%20d'Excellence.docx)**, a guide for your professors and other learners to understand how you like to learn and work. The manuals will be shown at the Networking event on January 29th and will be available online by the first day of class.
+2. **Fill out your [learner manual for me](https://github.com/CSPS-EFPC-DAAN/Welcome-package-Trousse-de-bienvenue/blob/master/Premium%20Learner%20Profile%20Template%20-%20Modèle%20de%20profil%20d'apprenant%20d'Excellence.docx)**, a guide for your professors and other learners to understand how you like to learn and work. The manuals will be shown at the Networking event on January 29th and will be available online by the first day of class.
 3. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. If this works for you, **please let us know.**
 4. **Please provide a photo of yourself** - a headshot or a casual photo will do - to put a face to a name of other learners that much quicker.
 5. As learners of Premium’s first cohort, you’ll be receiving some fun gear. **Please specify whether you’d like a [men’s](https://www.mygildan.com/store/product/adult-full-zip-hooded-sweatshirt/18600) or [women’s](https://www.mygildan.com/store/au/browse/productDetailsPage.jsp?productId=18600FL) sweater and in which size**.
