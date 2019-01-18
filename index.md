@@ -78,5 +78,5 @@ Should you have any questions, please contact us at the [Digital Academy](csps.p
  
 Thank you for participating in the beta cohort of the CSPS Digital Academy - Premium! We look forward to meeting you soon.
 
-![IMAGE ALT TEXT HERE](https://wiki.gccollab.ca/images/7/75/DA_Thank_You.png)
+![Black and white image of a top-down view of a person typing on a laptop. The words "Thank you!" overlays the image.](https://wiki.gccollab.ca/images/7/75/DA_Thank_You.png)
 
