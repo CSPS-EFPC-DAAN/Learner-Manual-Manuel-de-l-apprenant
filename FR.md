@@ -30,11 +30,11 @@ Veuillez noter que la participation est obligatoire pendant toute la durée du c
 # Informations utiles
 
 ## Matériel de cours préparatoire
-Every Thursday, you will be provided with preparatory materials for the following class.
+Tous les jeudis, vous recevrez du matériel préparatoire pour la classe suivante.
 
 ## Outils
 
-Tout au long de votre expérience Excellence, vous aurez accès à :
+Tout au long de votre expérience Excellence, vous aurez accès :
 - _Slack_, pour avoir discuté avec votre cohorte.
 - [_GitHub_](https://github.com), pour les modules et scripts. [Créez un compte GitHub ici](https://github.com/)(contenu en anglais seulement).
 - _Moodle_, pour accéder au matériel didactique. Vous recevrez bientôt un courriel séparé avec un lien, un nom d'utilisateur et un mot de passe pour y accéder.
