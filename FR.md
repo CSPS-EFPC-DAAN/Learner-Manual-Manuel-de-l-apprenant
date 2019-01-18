@@ -3,9 +3,9 @@
 
 Vous avez été choisi pour faire partie de la cohorte de **l’Académie du numérique de l’EFPC - Excellence**, qui fait l'objet d'un projet pilote à **l'École de la fonction publique du Canada**.
 
-Pour commencer, nous avons créé une courte vidéo pour vous parler un peu de vos premiers événements d’Excellence. Tout commence le mardi 29 janvier!
+Pour commencer, nous avons créé une [courte vidéo](https://youtu.be/SEr3ANrocgg) pour vous parler un peu de vos premiers événements d’Excellence. Tout commence le mardi 29 janvier!
 
-[![IMAGE ALT TEXT HERE](https://wiki.gccollab.ca/images/c/c2/DA_Window_-_AN_fenetre.jpeg)](https://www.youtube.com/user/MySchoolMonEcole)
+[![Fenêtre donnant sur le bureau de l’Académie du numérique.](https://wiki.gccollab.ca/images/c/c2/DA_Window_-_AN_fenetre.jpeg)](https://youtu.be/SEr3ANrocgg)
 
 *************************
 
@@ -69,7 +69,7 @@ Nous avons quelques dernières questions à vous poser avant de commencer votre 
 2. **Remplissez votre [manuel de l'apprenant pour moi](https://github.com/ashlevans/CSPS-Digital-Academy-Premium/blob/master/Premium%20Learner%20Profile%20Template%20-%20Modèle%20de%20profil%20d'apprenant%20d'Excellence.docx)**, un guide pour vos professeurs et les autres apprenants pour comprendre comment vous aimez apprendre et travailler. Les manuels seront présentés lors de la soirée de lancement le 29 janvier et seront disponibles en ligne dès le premier jour de cours.
 3. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. Si cela fonctionne pour vous, **s'il vous plaît laissez-nous savoir.**
 4. **Veuillez fournir une photo de vous-même** - une photo de tête ou une photo occasionnelle fera l'affaire - pour mettre un visage sur le nom des autres apprenants beaucoup plus rapidement.
-5. En tant qu'apprenants de la première cohorte d’Excellence, vous recevrez du matériel amusant. **Veuillez préciser si vous désirez un chandail pour hommes ou pour femmes et dans quelle taille.**.
+5. En tant qu'apprenants de la première cohorte d’Excellence, vous recevrez du matériel amusant. **Veuillez préciser si vous désirez un chandail pour [hommes](https://www.mygildan.com/store/product/adult-full-zip-hooded-sweatshirt/18600) ou pour [femmes](https://www.mygildan.com/store/au/browse/productDetailsPage.jsp?productId=18600FL) et dans quelle taille.**.
 6. **Avez-vous des allergies (alimentaires, environnementales ou autres)?**
 
 [Veuillez m'envoyer votre manuel de l'apprenant, le formulaire de décharge, la photo et les réponses aux questions ci-dessus d'ici le vendredi 25 janvier.](csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca)
@@ -78,5 +78,5 @@ Si vous avez des questions, n'hésitez pas à nous contacter à [l’Académie d
  
 Merci d'avoir participé à la cohorte bêta de l’Académie du numérique de l’EFPC! Au plaisir de vous rencontrer bientôt.
 
-![IMAGE ALT TEXT HERE](https://wiki.gccollab.ca/images/7/75/DA_Thank_You.png)
+![Image en noir et blanc d'une vue descendante d'une personne qui tape sur un ordinateur portable. Les mots "merci!" superpose l'image](https://wiki.gccollab.ca/images/7/75/DA_Thank_You.png)
 
