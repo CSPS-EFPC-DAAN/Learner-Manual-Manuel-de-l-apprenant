@@ -7,7 +7,7 @@ You’ve been selected to participate in the first cohort of the **Canada School
 
 To get you started, we’ve created a [quick video](https://youtu.be/SEr3ANrocgg) to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
 
-[![IWindow looking into the Digital Academy's office space.](https://wiki.gccollab.ca/images/c/c2/DA_Window_-_AN_fenetre.jpeg)](https://youtu.be/SEr3ANrocgg)
+[![IWindow looking into the Digital Academy's office space.](https://wiki.gccollab.ca/images/5/5b/DA_window_3.jpg)](https://youtu.be/SEr3ANrocgg)
 
 *************************
 
@@ -74,7 +74,7 @@ We have a few last questions before your Digital Academy experience begins:
 5. As learners of Premium’s first cohort, you’ll be receiving some fun gear. **Please specify whether you’d like a [men’s](https://www.mygildan.com/store/product/adult-full-zip-hooded-sweatshirt/18600) or [women’s](https://www.mygildan.com/store/au/browse/productDetailsPage.jsp?productId=18600FL) sweater and in which size**.
 6. **Do you have any allergies (food, environmental, other)?**
 
-**Please send your “learner manual for me”, release form, photo, and answers to the above by Friday, January 25 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.**
+**Please send your learner manual, release form, photo, and answers to the above by Friday, January 25 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.**
 
 Should you have any questions, please contact us at the Digital Academy.
  
@@ -93,7 +93,7 @@ Vous avez été choisi pour faire partie de la cohorte de **l’Académie du num
 
 Pour commencer, nous avons créé une [courte vidéo](https://youtu.be/SEr3ANrocgg) pour vous parler un peu de vos premiers événements d’Excellence. Tout commence le mardi 29 janvier!
 
-[![Fenêtre donnant sur le bureau de l’Académie du numérique.](https://wiki.gccollab.ca/images/c/c2/DA_Window_-_AN_fenetre.jpeg)](https://youtu.be/SEr3ANrocgg)
+[![Fenêtre donnant sur le bureau de l’Académie du numérique.](https://wiki.gccollab.ca/images/5/5b/DA_window_3.jpg)](https://youtu.be/SEr3ANrocgg)
 
 *************************
 
