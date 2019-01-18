@@ -5,7 +5,7 @@
 
 You’ve been selected to participate in the first cohort of the **Canada School of the Public Service Digital Academy – Premium** pilot!
 
-To get you started, we’ve created a [quick video](https://youtu.be/SEr3ANrocgg) to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
+To get you started, we’ve created a [quick video](https://www.youtube.com/watch?v=DLtGwmEpO5k) to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
 
 [![IWindow looking into the Digital Academy's office space.](https://wiki.gccollab.ca/images/5/5b/DA_window_3.jpg)](https://youtu.be/SEr3ANrocgg)
 
