@@ -69,12 +69,12 @@ We have a few last questions before your Digital Academy experience begins:
  
 1. **Will you be attending the Premium Networking Event on Tuesday, January 29?** An Outlook invitation will be sent shortly. Please confirm your attendance by Friday, January 25.
 2. **Fill out your [learner manual for me](https://github.com/CSPS-EFPC-DAAN/Welcome-package-Trousse-de-bienvenue/blob/master/Premium%20Learner%20Profile%20Template%20-%20Modèle%20de%20profil%20d'apprenant%20d'Excellence.docx)**, a guide for your professors and other learners to understand how you like to learn and work. The manuals will be shown at the Networking event on January 29th and will be available online by the first day of class.
-3. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. If this works for you, **please let us know.**
+3. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. If this works for you, **[please let us know by filling out this consent form](https://github.com/CSPS-EFPC-DAAN/Welcome-package-Trousse-de-bienvenue/blob/master/Consent%20Form%20-%20Formulaire%20de%20consentement.doc).**
 4. **Please provide a photo of yourself** - a headshot or a casual photo will do - to put a face to a name of other learners that much quicker.
 5. As learners of Premium’s first cohort, you’ll be receiving some fun gear. **Please specify whether you’d like a [men’s](https://www.mygildan.com/store/product/adult-full-zip-hooded-sweatshirt/18600) or [women’s](https://www.mygildan.com/store/au/browse/productDetailsPage.jsp?productId=18600FL) sweater and in which size**.
 6. **Do you have any allergies (food, environmental, other)?**
 
-**Please send your learner manual, release form, photo, and answers to the above by Friday, January 25 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.**
+**Please send your learner manual, consent form, photo, and answers to the above by Friday, January 25 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.**
 
 Should you have any questions, please contact us at the Digital Academy.
  
@@ -154,12 +154,12 @@ Nous avons quelques dernières questions à vous poser avant de commencer votre 
  
 1. **Assisterez-vous à l’événement de réseautage d’Excellence le mardi 29 janvier?** Une invitation Outlook vous sera envoyée sous peu. Veuillez confirmer votre présence d'ici le vendredi 25 janvier.
 2. **Remplissez votre [manuel de l'apprenant pour moi](https://github.com/ashlevans/CSPS-Digital-Academy-Premium/blob/master/Premium%20Learner%20Profile%20Template%20-%20Modèle%20de%20profil%20d'apprenant%20d'Excellence.docx)**, un guide pour vos professeurs et les autres apprenants pour comprendre comment vous aimez apprendre et travailler. Les manuels seront présentés lors de la soirée de lancement le 29 janvier et seront disponibles en ligne dès le premier jour de cours.
-3. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. Si cela fonctionne pour vous, **s'il vous plaît laissez-nous savoir.**
+3. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. Si cela fonctionne pour vous, **[Veuillez nous le faire savoir en remplissant ce formulaire de consentement.](https://github.com/CSPS-EFPC-DAAN/Welcome-package-Trousse-de-bienvenue/blob/master/Consent%20Form%20-%20Formulaire%20de%20consentement.doc)**
 4. **Veuillez fournir une photo de vous-même** - une photo de tête ou une photo occasionnelle fera l'affaire - pour mettre un visage sur le nom des autres apprenants beaucoup plus rapidement.
 5. En tant qu'apprenants de la première cohorte d’Excellence, vous recevrez du matériel amusant. **Veuillez préciser si vous désirez un chandail pour [hommes](https://www.mygildan.com/store/product/adult-full-zip-hooded-sweatshirt/18600) ou pour [femmes](https://www.mygildan.com/store/au/browse/productDetailsPage.jsp?productId=18600FL) et dans quelle taille.**
 6. **Avez-vous des allergies (alimentaires, environnementales ou autres)?**
 
-**Veuillez m'envoyer votre manuel de l'apprenant, le formulaire de décharge, la photo et les réponses aux questions par le vendredi 25 janvier à <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.**
+**Veuillez m'envoyer votre manuel de l'apprenant, le formulaire de consentment, la photo et les réponses aux questions par le vendredi 25 janvier à <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.**
 
 Si vous avez des questions, n'hésitez pas à nous contacter à l’Académie du numérique.
  
