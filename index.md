@@ -5,7 +5,7 @@
 
 You’ve been selected to participate in the first cohort of the **Canada School of the Public Service Digital Academy – Premium** pilot!
 
-To get you started, we’ve created a [quick video](https://www.youtube.com/watch?v=DLtGwmEpO5k) to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
+To get you started, we’ve created a [quick video](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be) to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
 
 [![IWindow looking into the Digital Academy's office space.](https://wiki.gccollab.ca/images/5/5b/DA_window_3.jpg)](https://youtu.be/SEr3ANrocgg)
 
@@ -91,7 +91,7 @@ Thank you for participating in the beta cohort of the CSPS Digital Academy - Pre
 
 ous avez été choisi pour faire partie du premier groupe de **l’Académie du numérique de l’EFPC - Excellence**, qui fait l'objet d'un projet pilote à **l'École de la fonction publique du Canada**.
 
-Pour commencer, nous avons créé une [courte vidéo](https://youtu.be/SEr3ANrocgg) pour vous parler un peu des premiers événements d’Excellence. Tout commence le mardi 29 janvier!
+Pour commencer, nous avons créé une [courte vidéo](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be) pour vous parler un peu des premiers événements d’Excellence. Tout commence le mardi 29 janvier!
 
 [![Fenêtre donnant sur le bureau de l’Académie du numérique.](https://wiki.gccollab.ca/images/5/5b/DA_window_3.jpg)](https://youtu.be/SEr3ANrocgg)
 
