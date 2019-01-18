@@ -47,8 +47,7 @@ Tout au long de votre expérience Excellence, vous aurez accès :
 - **Services alimentaires**: Une cafétéria est disponible sur place. Il est ouvert tous les jours de 7h00 à 15h00.
 - **Code vestimentaire**: Décontracté. Apportez un chandail ou une veste pour assurer votre confort.
 - **Allergies**: Certains participants au cours peuvent souffrir d'hypersensibilité environnementale. Veuillez vous abstenir d'utiliser des produits parfumés pendant toute la durée du cours.
-- **Hébergements**: Veuillez communiquer avec [nous](csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca) 
-si vous avez besoin d'aménagements spéciaux.
+- **Hébergements**: Veuillez communiquer avec nous à <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca> si vous avez besoin d'aménagements spéciaux.
 
 # Restez en contact
 
@@ -72,9 +71,9 @@ Nous avons quelques dernières questions à vous poser avant de commencer votre 
 5. En tant qu'apprenants de la première cohorte d’Excellence, vous recevrez du matériel amusant. **Veuillez préciser si vous désirez un chandail pour [hommes](https://www.mygildan.com/store/product/adult-full-zip-hooded-sweatshirt/18600) ou pour [femmes](https://www.mygildan.com/store/au/browse/productDetailsPage.jsp?productId=18600FL) et dans quelle taille.**
 6. **Avez-vous des allergies (alimentaires, environnementales ou autres)?**
 
-[Veuillez m'envoyer votre manuel de l'apprenant, le formulaire de décharge, la photo et les réponses aux questions ci-dessus d'ici le vendredi 25 janvier.](csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca)
+[Veuillez m'envoyer votre manuel de l'apprenant, le formulaire de décharge, la photo et les réponses aux questions par le vendredi 25 janvier à <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.
 
-Si vous avez des questions, n'hésitez pas à nous contacter à [l’Académie du numérique](csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca).
+Si vous avez des questions, n'hésitez pas à nous contacter à l’Académie du numérique.
  
 Merci d'avoir participé à la cohorte bêta de l’Académie du numérique de l’EFPC d'Excellence! Au plaisir de vous rencontrer bientôt.
 
