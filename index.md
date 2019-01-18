@@ -47,7 +47,7 @@ Throughout your Premium experience, you will access:
 - **Food Services**: A cafeteria is available on site. It is open daily from 7:00 am to 3:00 pm.
 - **Dress Code**: Casual. Bring a sweater or jacket to ensure your comfort.
 - **Allergies**: Some participants attending the course may suffer from environmental sensitivities. Please refrain from using fragranced products for the duration of the course.
-- **Accommodations**: [Please contact us](<csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>) 
+- **Accommodations**: Please contact us at <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca> 
 if you require special accommodation.
 
 # Stay in Touch
@@ -72,9 +72,9 @@ We have a few last questions before your Digital Academy experience begins:
 5. As learners of Premium’s first cohort, you’ll be receiving some fun gear. **Please specify whether you’d like a [men’s](https://www.mygildan.com/store/product/adult-full-zip-hooded-sweatshirt/18600) or [women’s](https://www.mygildan.com/store/au/browse/productDetailsPage.jsp?productId=18600FL) sweater and in which size**.
 6. **Do you have any allergies (food, environmental, other)?**
 
-[Please send your “learner manual for me”, release form, photo, and answers to the above by Friday, January 25.](csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca)
+**Please send your “learner manual for me”, release form, photo, and answers to the above by Friday, January 25 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.**
 
-Should you have any questions, please contact us at the [Digital Academy](csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca).
+Should you have any questions, please contact us at the Digital Academy.
  
 Thank you for participating in the beta cohort of the CSPS Digital Academy - Premium! We look forward to meeting you soon.
 
