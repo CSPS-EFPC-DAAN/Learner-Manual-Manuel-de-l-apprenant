@@ -78,5 +78,5 @@ Should you have any questions, please contact us at the [Digital Academy](csps.p
  
 Thank you for participating in the beta cohort of the CSPS Digital Academy - Premium! We look forward to meeting you soon.
 
-[![IMAGE ALT TEXT HERE](https://wiki.gccollab.ca/images/7/75/DA_Thank_You.png)
+![IMAGE ALT TEXT HERE](https://wiki.gccollab.ca/images/7/75/DA_Thank_You.png)
 
