@@ -3,9 +3,9 @@
 
 You’ve been selected to participate in the first cohort of the **Canada School of the Public Service Digital Academy – Premium** pilot!
 
-To get you started, we’ve created a [short video](https://www.youtube.com/user/MySchoolMonEcole) to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
+To get you started, we’ve created a [quick video](https://youtu.be/SEr3ANrocgg) to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
 
-[![IMAGE ALT TEXT HERE](https://wiki.gccollab.ca/images/c/c2/DA_Window_-_AN_fenetre.jpeg)](https://www.youtube.com/user/MySchoolMonEcole)
+[![IWindow looking into the Digital Academy's office space.](https://wiki.gccollab.ca/images/c/c2/DA_Window_-_AN_fenetre.jpeg)](https://youtu.be/SEr3ANrocgg)
 
 *************************
 
@@ -34,7 +34,7 @@ Every Thursday, you will be provided with preparatory materials for the followin
 
 ## Online Tools & Platforms
 
-Throughout your Premium experience, you will access to:
+Throughout your Premium experience, you will access:
 - _Slack_, for chatting with your cohort.
 - [_GitHub_](https://github.com), for modules and scripts. [Create a GitHub account here](https://github.com/).
 - _Moodle_, for accessing course materials. You will soon receive a separate email with a link, username, and password to gain access.
@@ -53,7 +53,7 @@ if you require special accommodation.
 # Stay in Touch
 
 Keep up to date with Canada’s Digital Academy through:
-- [Our Mailing List](http://github.com)
+- [Our Mailing List](http://eepurl.com/dKe2co)
 - [GCcollab](https://gccollab.ca/groups/profile/1316691/endigital-academyfracadu00e9mie-du-numu00e9rique)
 - [Twitter](https://twitter.com/DigiAcademyCAN)
 - [LinkedIn](https://www.linkedin.com/company/csps-digiacademy-acadenum-efpc/)
@@ -69,10 +69,10 @@ We have a few last questions before your Digital Academy experience begins:
 2. **Fill out your [learner manual for me](https://github.com/ashlevans/CSPS-Digital-Academy-Premium/blob/master/Premium%20Learner%20Profile%20Template%20-%20Modèle%20de%20profil%20d'apprenant%20d'Excellence.docx)**, a guide for your professors and other learners to understand how you like to learn and work. The manuals will be shown at the Networking event on January 29th and will be available online by the first day of class.
 3. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. If this works for you, **please let us know.**
 4. **Please provide a photo of yourself** - a headshot or a casual photo will do - to put a face to a name of other learners that much quicker.
-5. As learners of Premium’s first cohort, you’ll be receiving some fun gear. **Please specify whether you’d like a men’s or women’s sweater and in which size**.
+5. As learners of Premium’s first cohort, you’ll be receiving some fun gear. **Please specify whether you’d like a [men’s](https://www.mygildan.com/store/product/adult-full-zip-hooded-sweatshirt/18600) or [women’s](https://www.mygildan.com/store/au/browse/productDetailsPage.jsp?productId=18600FL) sweater and in which size**.
 6. **Do you have any allergies (food, environmental, other)?**
 
-[Please send your “learner manual for me”, release form, and answers to the above by Friday, January 25.](csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca)
+[Please send your “learner manual for me”, release form, photo, and answers to the above by Friday, January 25.](csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca)
 
 Should you have any questions, please contact us at the [Digital Academy](csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca).
  
