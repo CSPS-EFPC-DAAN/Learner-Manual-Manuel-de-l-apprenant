@@ -47,7 +47,7 @@ Throughout your Premium experience, you will access:
 - **Food Services**: A cafeteria is available on site. It is open daily from 7:00 am to 3:00 pm.
 - **Dress Code**: Casual. Bring a sweater or jacket to ensure your comfort.
 - **Allergies**: Some participants attending the course may suffer from environmental sensitivities. Please refrain from using fragranced products for the duration of the course.
-- **Accommodations**: [Please contact us](csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca) 
+- **Accommodations**: [Please contact us](<csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>) 
 if you require special accommodation.
 
 # Stay in Touch
