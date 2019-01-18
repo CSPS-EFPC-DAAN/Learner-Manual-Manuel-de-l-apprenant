@@ -3,7 +3,7 @@
 # Welcome to CSPS Digital Academy - Premium
 # Congratulations!
 
-You’ve been selected to participate in the first cohort of the **Canada School of the Public Service Digital Academy – Premium** pilot!
+You’ve been selected to participate in the first Data and AI/ML cohorts of the **Canada School of the Public Service Digital Academy – Premium** pilot!
 
 To get you started, we’ve created a [quick video](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be) to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
 
@@ -89,7 +89,7 @@ Thank you for participating in the beta cohort of the CSPS Digital Academy - Pre
 # Bienvenue à l'Académie numérique de l'EFPC - Excellence
 # Félicitations!
 
-ous avez été choisi pour faire partie du premier groupe de **l’Académie du numérique de l’EFPC - Excellence**, qui fait l'objet d'un projet pilote à **l'École de la fonction publique du Canada**.
+Vous avez été choisi pour faire partie aux premières groupes de données et d'IA/ML de **l'Académie du numérique de l'École de la fonction publique du Canada - Excellence!
 
 Pour commencer, nous avons créé une [courte vidéo](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be) pour vous parler un peu des premiers événements d’Excellence. Tout commence le mardi 29 janvier!
 
