@@ -7,7 +7,7 @@ You’ve been selected to participate in the first Data and AI/ML cohorts of the
 
 To get you started, we’ve created a [quick video](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be) to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
 
-[![IWindow looking into the Digital Academy's office space.](https://wiki.gccollab.ca/images/c/cd/DA_window_4.jpg)](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be)
+[![IWindow looking into the Digital Academy's office space.](https://wiki.gccollab.ca/images/4/4e/DA_Intro_Video.png)](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be)
 
 *************************
 
@@ -80,7 +80,7 @@ Should you have any questions, please contact us at the Digital Academy.
  
 Thank you for participating in the beta cohort of the CSPS Digital Academy - Premium! We look forward to meeting you soon.
 
-![Black and white image of a top-down view of a person typing on a laptop. The words "Thank you!" overlays the image.](https://wiki.gccollab.ca/images/7/75/DA_Thank_You.png)
+![Black and white image of a top-down view of a person typing on a laptop. The words "Thank you!" overlays the image.](https://wiki.gccollab.ca/images/c/cd/DA_window_4.jpg)
 
 *************************
 *************************
@@ -93,7 +93,7 @@ Vous avez été choisi pour faire partie aux premières groupes de données et d
 
 Pour commencer, nous avons créé une [courte vidéo](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be) pour vous parler un peu des premiers événements d’Excellence. Tout commence le mardi 29 janvier!
 
-[![Fenêtre donnant sur le bureau de l’Académie du numérique.](https://wiki.gccollab.ca/images/c/cd/DA_window_4.jpg)](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be)
+[![Fenêtre donnant sur le bureau de l’Académie du numérique.](https://wiki.gccollab.ca/images/4/4e/DA_Intro_Video.png)](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be)
 
 *************************
 
@@ -164,6 +164,6 @@ Si vous avez des questions, n'hésitez pas à communiquer avec nous à l’Acad�
 
  Merci d'avoir choisi l'École de la fonction publique du Canada ! Nous nous réjouissons de vous rencontrer prochainement.
 
-![Image en noir et blanc d'une vue descendante d'une personne qui tape sur un ordinateur portable. Les mots "merci!" superpose l'image](https://wiki.gccollab.ca/images/1/13/AN_Merci.png)
+![Image en noir et blanc d'une vue descendante d'une personne qui tape sur un ordinateur portable. Les mots "merci!" superpose l'image](https://wiki.gccollab.ca/images/c/cd/DA_window_4.jpg)
 
 
