@@ -34,6 +34,8 @@ Please note that participation for the entire duration of the course is mandator
 ## Preparatory Course Materials
 Every Thursday, you will be provided with preparatory materials for the following class.
 
+While there are no required preparatory materials this week, you can get a head start by reading up on [data science trends for 2019](https://towardsdatascience.com/data-science-trends-for-2019-11b2397bd16b) or [finding a course on codecademy](https://www.codecademy.com).
+
 ## Online Tools & Platforms
 
 Throughout your Premium experience, you will access:
