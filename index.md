@@ -120,6 +120,9 @@ Veuillez noter que la participation est obligatoire pendant toute la durée du c
 ## Matériel de cours préparatoire
 Tous les jeudis, vous recevrez du matériel préparatoire pour la semaine suivante.
 
+Il n'y a pas de matériel préparatoire requis cette semaine, mais vous pouvez commencer par vous renseigner sur [les tendances en matière de sciences des données pour 2019](https://github.com/CSPS-EFPC-DAAN/Welcome-package-Trousse-de-bienvenue/blob/master/Tendances%20de%20la%20science%20des%20données%20pour%202019.docx
+) ou trouver un cours sur [codecademy](https://www.codecademy.com) (cours d'anglais seulement).
+
 ## Outils
 
 Tout au long de votre expérience Excellence, vous aurez accès à :
