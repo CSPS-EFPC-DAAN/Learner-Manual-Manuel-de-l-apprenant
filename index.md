@@ -135,7 +135,7 @@ Tout au long de votre expérience Excellence, vous aurez accès à :
 
 - **Comment s'y rendre:** Le 111, promenade Sussex offre un stationnement souterrain payant, mais le nombre de places est limité. Le stationnement dans les rues secondaires est limité et limité à des périodes de trois heures. Nous vous incitons à utiliser les différents moyens de transport public disponibles. Pour obtenir de plus amples renseignements, visitez les sites d'OC Transpo et de la Société de transport de l'Outaouais (STO). Nous recommandons généralement aux participants de demander des coupons de taxi pour se rendre de leur lieu de travail au 111, promenade Sussex.
 - **Sécurité:** Vous devez avoir votre carte d'identité valide du gouvernement pour entrer dans l'édifice et la porter en permanence sur vous pendant que vous êtes sur place.
-- **Services alimentaires**: Une cafétéria se trouve sur place. Elle est ouverte tous les jours de 7 h à 15 h (avec options de service complet de 7h00 à 13h30).
+- **Services alimentaires**: Une cafétéria se trouve sur place. Elle est ouverte tous les jours de 7 h à 15 h (avec options de service complet de 7 h à 13 h 30).
 - **Code vestimentaire**: Décontracté. Apportez un chandail ou une veste pour plus de confort.
 - **Allergies**: Certains participants peuvent souffrir d'hypersensibilité environnementale, veuillez par conséquent vous abstenir d'utiliser des produits parfumés pendant toute la durée du cours.
 - **Hébergements**: Veuillez contacter <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca> si vous avez besoin d'accommodements.
@@ -166,7 +166,7 @@ Nous avons quelques dernières questions à vous poser avant le début de votre 
 
 Si vous avez des questions, n'hésitez pas à communiquer avec nous à l’Académie du numérique.
 
- Merci d'avoir choisi l'École de la fonction publique du Canada ! Nous nous réjouissons de vous rencontrer prochainement.
+ Merci d'avoir choisi l'École de la fonction publique du Canada! Nous nous réjouissons de vous rencontrer prochainement.
 
 ![Image en noir et blanc d'une vue descendante d'une personne qui tape sur un ordinateur portable. Les mots "merci!" superpose l'image](https://wiki.gccollab.ca/images/c/cd/DA_window_4.jpg)
 
