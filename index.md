@@ -3,7 +3,7 @@
 # Welcome to CSPS Digital Academy - Premium
 # Congratulations!
 
-You’ve been selected to participate in the first Data and AI/ML cohorts of the **Canada School of the Public Service Digital Academy – Premium** pilot!
+You’ve been selected to participate in the first Data and AI/ML cohorts of the **Canada School of Public Service Digital Academy – Premium** pilot!
 
 To get you started, we’ve created a [quick video](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be) to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
 
