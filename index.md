@@ -1,4 +1,4 @@
-[*(le français suit)*](#Bienvenue-à-l'Académie-numérique-de-l'EFPC---Excellence)
+[*(le français suit)*](#Félicitations!)
 
 # Welcome to CSPS Digital Academy - Premium
 # Congratulations!
