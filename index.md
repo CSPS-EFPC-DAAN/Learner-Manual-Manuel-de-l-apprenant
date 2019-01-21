@@ -16,7 +16,7 @@ To get you started, we’ve created a [quick video](https://www.youtube.com/watc
 * 5:00 - 7:00 PM
 * [Digital Academy Headquarters](https://www.google.ca/maps/@45.4216695,-75.6942864,3a,75y,159.85h,95.12t/data=!3m7!1e1!3m5!1soLka23a3BM5HUHjLsFZ4hA!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DoLka23a3BM5HUHjLsFZ4hA%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D259.15222%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656), 66 Slater St., 3rd floor
 
-This will be a fun way to meet your fellow learners, members of the Digital Academy team, and some special guests – and then try your hand at virtual reality technology. An Outlook invite will be sent shortly: please confirm your participation by Friday, January 25.
+This will be a fun way to meet your fellow learners, members of the Digital Academy team, and some special guests – then try your hand at virtual reality technology. An Outlook invite will be sent shortly: please confirm your participation by Friday, January 25.
 
 ## First Day of Class
 * Thursday, January 31, 2019
@@ -27,14 +27,14 @@ Two days after the Launch party, we will be pleased to welcome you to your first
 
 Following the first week, we will have lab hours or designated learning events from 9:00am-12:00pm and modules from 1:00-4:00pm. This will all take place at 111 Sussex Drive.
  
-Please note that participation for the entire duration of the course is mandatory. At 4pm every Thursday, you will receive a short evaluation which will help improve the Premium experience for future cohorts: your participation is managed through the completion of the weekly evaluation.
+Please note that participation for the entire duration of the course is mandatory. At 4:00pm every Thursday, you will receive a short evaluation which will help improve the Premium experience for future cohorts. Your participation is managed through the completion of the weekly evaluation.
 
 # Useful Info
 
 ## Preparatory Course Materials
 Every Thursday, you will be provided with preparatory materials for the following class.
 
-While there are no required preparatory materials this week, you can get a head start by reading up on [data science trends for 2019](https://towardsdatascience.com/data-science-trends-for-2019-11b2397bd16b) or [finding a course on codecademy](https://www.codecademy.com).
+While there are no required preparatory materials this week, you can get a head start by reading up on [data science trends for 2019](https://towardsdatascience.com/data-science-trends-for-2019-11b2397bd16b) or finding a course on [codecademy](https://www.codecademy.com).
 
 ## Online Tools & Platforms
 
@@ -46,9 +46,9 @@ Throughout your Premium experience, you will access:
 
 ## Logistics
 
-- **Getting There:** 111 Sussex does offer paid underground parking but spaces are limited due to construction. We encourage you to use the various public transport options available. For more information, visit the OC Transpo and  Société de transport de l’Outaouais (STO) sites. We generally recommend that participants request and bring taxi chits to get from their work location to 111 Sussex.
+- **Getting There:** 111 Sussex does offer paid underground parking but spaces are limited due to construction. Parking on side streets is limited and capped at three hour periods. We encourage you to use the various public transport options available. For more information, visit the OC Transpo and  Société de transport de l’Outaouais (STO) sites. We generally recommend that participants request and bring taxi chits to get from their work location to 111 Sussex.
 - **Security:** You must have your valid government ID card with you for entry into the building and at all times while onsite.
-- **Food Services**: A cafeteria is available on site. It is open daily from 7:00 am to 3:00 pm.
+- **Food Services**: A cafeteria is available on site. It is open daily from 7:00 am to 3:00 pm (with full service options from 7:00am - 1:30pm).
 - **Dress Code**: Casual. Bring a sweater or jacket to ensure your comfort.
 - **Allergies**: Some participants attending the course may suffer from environmental sensitivities. Please refrain from using fragranced products for the duration of the course.
 - **Accommodations**: Please contact us at <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca> 
@@ -69,12 +69,12 @@ Keep up to date with Canada’s Digital Academy through:
 
 We have a few last questions before your Digital Academy experience begins:
  
-1. **Will you be attending the Premium Networking Event on Tuesday, January 29?** An Outlook invitation will be sent shortly. Please confirm your attendance by Friday, January 25.
-2. **Fill out your [learner manual for me](https://github.com/CSPS-EFPC-DAAN/Welcome-package-Trousse-de-bienvenue/blob/master/Premium%20Learner%20Profile%20Template%20-%20Modèle%20de%20profil%20d'apprenant%20d'Excellence.docx)**, a guide for your professors and other learners to understand how you like to learn and work. The manuals will be shown at the Networking event on January 29th and will be available online by the first day of class.
-3. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. If this works for you, **[please let us know by filling out this consent form](https://github.com/CSPS-EFPC-DAAN/Welcome-package-Trousse-de-bienvenue/blob/master/Consent%20Form%20-%20Formulaire%20de%20consentement.doc).**
-4. **Please provide a photo of yourself** - a headshot or a casual photo will do - to put a face to a name of other learners that much quicker.
-5. As learners of Premium’s first cohort, you’ll be receiving some fun gear. **Please specify whether you’d like a [men’s](https://www.mygildan.com/store/product/adult-full-zip-hooded-sweatshirt/18600) or [women’s](https://www.mygildan.com/store/au/browse/productDetailsPage.jsp?productId=18600FL) sweater and in which size**.
-6. **Do you have any allergies (food, environmental, other)?**
+1. Will you be attending the Premium Networking Event on Tuesday, January 29?** An Outlook invitation will be sent shortly. Please confirm your attendance by Friday, January 25.
+2. Fill out your [learner manual for me](https://github.com/CSPS-EFPC-DAAN/Welcome-package-Trousse-de-bienvenue/blob/master/Premium%20Learner%20Profile%20Template%20-%20Modèle%20de%20profil%20d'apprenant%20d'Excellence.docx), a guide for your professors and other learners to understand how you like to learn and work. The manuals will be shown at the Networking event on January 29th and will be available online by the first day of class.
+3. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. If this works for you, [please let us know by filling out this consent form](https://github.com/CSPS-EFPC-DAAN/Welcome-package-Trousse-de-bienvenue/blob/master/Consent%20Form%20-%20Formulaire%20de%20consentement.doc).
+4. Please provide a photo of yourself - a headshot or a casual photo will do - to put a face to a name of other learners that much quicker.
+5. As learners of Premium’s first cohort, you’ll be receiving some fun gear. Please specify whether you’d like a [men’s](https://www.mygildan.com/store/product/adult-full-zip-hooded-sweatshirt/18600) or [women’s](https://www.mygildan.com/store/au/browse/productDetailsPage.jsp?productId=18600FL) sweater and in which size**.
+6. Do you have any allergies (food, environmental, other)?
 
 **Please send your learner manual, consent form, photo, and answers to the above by Friday, January 25 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.**
 
@@ -133,9 +133,9 @@ Tout au long de votre expérience Excellence, vous aurez accès à :
 
 ## Logistique
 
-- **Comment s'y rendre:** Le 111, promenade Sussex offre un stationnement souterrain payant, mais le nombre de places est limité. Nous vous incitons à utiliser les différents moyens de transport public disponibles. Pour obtenir de plus amples renseignements, visitez les sites d'OC Transpo et de la Société de transport de l'Outaouais (STO). Nous recommandons généralement aux participants de demander des coupons de taxi pour se rendre de leur lieu de travail au 111, promenade Sussex.
+- **Comment s'y rendre:** Le 111, promenade Sussex offre un stationnement souterrain payant, mais le nombre de places est limité. Le stationnement dans les rues secondaires est limité et limité à des périodes de trois heures. Nous vous incitons à utiliser les différents moyens de transport public disponibles. Pour obtenir de plus amples renseignements, visitez les sites d'OC Transpo et de la Société de transport de l'Outaouais (STO). Nous recommandons généralement aux participants de demander des coupons de taxi pour se rendre de leur lieu de travail au 111, promenade Sussex.
 - **Sécurité:** Vous devez avoir votre carte d'identité valide du gouvernement pour entrer dans l'édifice et la porter en permanence sur vous pendant que vous êtes sur place.
-- **Services alimentaires**: Une cafétéria se trouve sur place. Elle est ouverte tous les jours de 7 h à 15 h.
+- **Services alimentaires**: Une cafétéria se trouve sur place. Elle est ouverte tous les jours de 7 h à 15 h (avec options de service complet de 7h00 à 13h30).
 - **Code vestimentaire**: Décontracté. Apportez un chandail ou une veste pour plus de confort.
 - **Allergies**: Certains participants peuvent souffrir d'hypersensibilité environnementale, veuillez par conséquent vous abstenir d'utiliser des produits parfumés pendant toute la durée du cours.
 - **Hébergements**: Veuillez contacter <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca> si vous avez besoin d'accommodements.
