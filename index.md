@@ -39,10 +39,10 @@ While there are no required preparatory materials this week, you can get a head 
 ## Online Tools & Platforms
 
 Throughout your Premium experience, you will access:
-- _Slack_, for chatting with your cohort. You will soon receive an invitation to a Digital Academy Slack Workspace.
-- [_GitHub_](https://github.com), for modules and scripts. [Create a GitHub account here](https://github.com/).
-- _Moodle_, for accessing course materials. You will soon receive a separate email with a link, username, and password to gain access.
-- _Textit_ to improve your Premium experience. As part of the beta cohort, your insights on topics, content, course modules and overall experience will be highly valuable!
+- **Slack**, for chatting with your cohort. You will soon receive an invitation to a Digital Academy Slack Workspace.
+- **[GitHub]**,(https://github.com) for modules and scripts. [Create a GitHub account here](https://github.com/).
+- **Moodle**, for accessing course materials. You will soon receive a separate email with a link, username, and password to gain access.
+- **Textit**, to improve your Premium experience. As part of the beta cohort, your insights on topics, content, course modules and overall experience will be highly valuable!
 
 ## Logistics
 
@@ -126,10 +126,10 @@ Il n'y a pas de matériel préparatoire requis cette semaine, mais vous pouvez c
 ## Outils
 
 Tout au long de votre expérience Excellence, vous aurez accès à :
-- _Slack_, pour bavarder avec votre groupe. Vous recevrez bientôt une invitation à un espace de travail sur Slack de l’Académie du numérique.
-- [_GitHub_](https://github.com), pour les modules et les scripts. [Créez un compte GitHub ici](https://github.com/)(contenu en anglais seulement).
-- _Moodle_, pour accéder au matériel pédagogique. Vous recevrez bientôt un courriel séparé avec un lien, un nom d'utilisateur et un mot de passe pour y accéder.
-- _Textit_ pour améliorer votre expérience Excellence. C'est le lancement d’Excellence : vos idées sur les sujets, le contenu, les modules de cours sont très précieuses!
+- **Slack**, pour bavarder avec votre groupe. Vous recevrez bientôt une invitation à un espace de travail sur Slack de l’Académie du numérique.
+- **[GitHub]**(https://github.com), pour les modules et les scripts. [Créez un compte GitHub ici](https://github.com/)(contenu en anglais seulement).
+- **Moodle**, pour accéder au matériel pédagogique. Vous recevrez bientôt un courriel séparé avec un lien, un nom d'utilisateur et un mot de passe pour y accéder.
+- **Textit**, pour améliorer votre expérience Excellence. C'est le lancement d’Excellence : vos idées sur les sujets, le contenu, les modules de cours sont très précieuses!
 
 ## Logistique
 
@@ -139,7 +139,6 @@ Tout au long de votre expérience Excellence, vous aurez accès à :
 - **Code vestimentaire**: Décontracté. Apportez un chandail ou une veste pour plus de confort.
 - **Allergies**: Certains participants peuvent souffrir d'hypersensibilité environnementale, veuillez par conséquent vous abstenir d'utiliser des produits parfumés pendant toute la durée du cours.
 - **Hébergements**: Veuillez contacter <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca> si vous avez besoin d'accommodements.
-
 
 # Restez en contact
 
