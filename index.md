@@ -1,4 +1,4 @@
-[*(le français suit)*](#Félicitations!)
+[*(le français suit)*](#félicitations!)
 
 # Welcome to CSPS Digital Academy - Premium
 # Congratulations!
