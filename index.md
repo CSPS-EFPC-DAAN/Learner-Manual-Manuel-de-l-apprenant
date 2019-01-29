@@ -41,7 +41,6 @@ While there are no required preparatory materials this week, you can get a head 
 Throughout your Premium experience, you will access:
 - **Slack**, for chatting with your cohort. You will soon receive an invitation to a Digital Academy Slack Workspace.
 - **[GitHub](https://github.com)**, for modules and scripts. [Create a GitHub account here](https://github.com/).
-- **Moodle**, for accessing course materials. You will soon receive a separate email with a link, username, and password to gain access.
 - **Textit**, to improve your Premium experience. As part of the beta cohort, your insights on topics, content, course modules and overall experience will be highly valuable!
 
 ## Logistics
@@ -128,7 +127,6 @@ Il n'y a pas de matériel préparatoire requis cette semaine, mais vous pouvez c
 Tout au long de votre expérience Excellence, vous aurez accès à :
 - **Slack**, pour bavarder avec votre groupe. Vous recevrez bientôt une invitation à un espace de travail sur Slack de l’Académie du numérique.
 - **[GitHub](https://github.com)**, pour les modules et les scripts. [Créez un compte GitHub ici](https://github.com/)(contenu en anglais seulement).
-- **Moodle**, pour accéder au matériel pédagogique. Vous recevrez bientôt un courriel séparé avec un lien, un nom d'utilisateur et un mot de passe pour y accéder.
 - **Textit**, pour améliorer votre expérience Excellence. C'est le lancement d’Excellence : vos idées sur les sujets, le contenu, les modules de cours sont très précieuses!
 
 ## Logistique
