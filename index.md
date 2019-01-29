@@ -101,7 +101,7 @@ Pour commencer, nous avons créé une [courte vidéo](https://www.youtube.com/wa
 
 ## Événement de réseautage d’Excellence
 * Mardi 29 janvier 2019
-* De 16 h à 18 h 
+* De 17 h à 19 h 
 * [Siège social de l’Académie du numérique](https://www.google.ca/maps/@45.4216695,-75.6942864,3a,75y,159.85h,95.12t/data=!3m7!1e1!3m5!1soLka23a3BM5HUHjLsFZ4hA!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DoLka23a3BM5HUHjLsFZ4hA%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D259.15222%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656), 66, rue Slater, 3e étage
 
 Ce sera une façon amusante de rencontrer vos camarades de classe, les membres de l'équipe de l’Académie du numérique de l’EFPC et quelques invités spéciaux, puis de vous essayer à la technologie de la réalité virtuelle. Une invitation Outlook vous sera envoyée sous peu : veuillez confirmer votre participation par le vendredi 25 janvier.
