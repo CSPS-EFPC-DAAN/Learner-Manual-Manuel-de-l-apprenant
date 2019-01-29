@@ -90,7 +90,7 @@ Thank you for participating in the beta cohort of the CSPS Digital Academy - Pre
 # Bienvenue à l'Académie numérique de l'EFPC - Excellence
 # Félicitations!
 
-Vous avez été choisi pour faire partie aux premières groupes de données et d'IA/ML de **l'Académie du numérique de l'École de la fonction publique du Canada - Excellence!
+Vous avez été choisi pour faire partie aux premières groupes de données et d'IA/ML de **l'Académie du numérique de l'École de la fonction publique du Canada - Excellence!**
 
 Pour commencer, nous avons créé une [courte vidéo](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be) pour vous parler un peu des premiers événements d’Excellence. Tout commence le mardi 29 janvier!
 
