@@ -207,7 +207,7 @@ The Digital Academy User Experience (UX) team will be conducting a user research
      <ul>
       <li>Supports learners who may need additional assistance on a one-on-one or group basis, both virtually and in the classroom</li>
       </ul>
-     </td>
+    </td>
     <td>During instructor-led learning from November 4 to December 20. They can also be reached by Slack or email during self-study periods.</td>
    </tr>
    <tr>
@@ -222,8 +222,10 @@ The Digital Academy User Experience (UX) team will be conducting a user research
     <td>They can be reached by appointment from November 4 to December 20, if you have questions on weekly problem-based assignments. A link to a weekly appointment schedule will be posted on Moodle</td>
    </tr>
    <tr>
-    <td><b>Coach</b><td>
-    <td><ul>
+    <td><b>Coach</b></td>
+    <td></td>
+    <td>
+     <ul>
       <li>Designs and facilitates workshop on facilitation and coaching for advisors</li>
       <li>Designs and develops introduction to learning circles for learners</li>
       <li>Supports advisors</li>
