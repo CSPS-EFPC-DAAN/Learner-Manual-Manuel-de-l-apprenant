@@ -105,16 +105,16 @@ Please note that although in-person participation for the 12-day practicum is no
 
 ### Transportation Options
 
-* Ottawa Airport | [Ground Transportation Website](https://yow.ca/en/parking-transportation/ground-transportation-options)
+* Ottawa Airport [Ground Transportation Website](https://yow.ca/en/parking-transportation/ground-transportation-options)
 * Ridesharing: Uber and Lyft operate in Ottawa but are not available in Gatineau, Quebec
 * OC Transpo operates Para Transpo, a door-to-door transportation service for people with disabilities. For reservations call (613) 244-7272 
 * [Ottawa Public Transportation Website](https://www.octranspo.com/en/)
 * When traveling within Ottawa, taxis are available. “Hailing” a cab on the street is **not recommended**; booking a taxi one day in advance or calling at least 15 minutes prior to pick-up is recommended. 
 * Ottawa taxi companies:
-*  Blue Line (613) 238-1111 | [Website](http://www.bluelinetaxi.com)
+*  Blue Line (613) 238-1111 [Website](http://www.bluelinetaxi.com)
 * Gatineau taxi companies: 
-*  Taxi Loyal (819) 663-5252 | [Website](https://www.loyaltaxi.com)
-* Ottawa Airport | [Ground Transportation Website](https://yow.ca/en/parking-transportation/ground-transportation-options)
+*  Taxi Loyal (819) 663-5252 [Website](https://www.loyaltaxi.com)
+* Ottawa Airport [Ground Transportation Website](https://yow.ca/en/parking-transportation/ground-transportation-options)
 *  Airport-authorized transportation is recommended 
 *  Ridesharing pick-up is also available
 
@@ -184,7 +184,7 @@ The Digital Academy User Experience (UX) team will be conducting a user research
 
 Title | Who | Role | Availability and access
 ------|-----|------|------------------------
-**Instructor** | Seasoned subject matter expert | * Delivers content (in the classroom and virtually) * Interacts with learners * Adapts content and delivery to learners’ needs * Encourages knowledge transfer and application | During instructor-led learning from November 4 to December 20.
+**Instructor** | Seasoned subject matter expert | =* Delivers content (in the classroom and virtually)=<br>==* Interacts with learners==<br>===* Adapts content and delivery to learners’ needs===<br>====* Encourages knowledge transfer and application==== | During instructor-led learning from November 4 to December 20.
 
 
 
