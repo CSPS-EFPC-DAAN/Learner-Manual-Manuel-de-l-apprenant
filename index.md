@@ -226,7 +226,6 @@ The Digital Academy User Experience (UX) team will be conducting a user research
    </tr>
    <tr>
     <td><b>Coach</b><td>
-    <td></td>
     <td><ul>
       <li>Designs and facilitates workshop on facilitation and coaching for advisors</li>
       <li>Designs and develops introduction to learning circles for learners</li>
@@ -265,7 +264,7 @@ The Digital Academy User Experience (UX) team will be conducting a user research
 
 
 
-
+*********************************
 
 
 
