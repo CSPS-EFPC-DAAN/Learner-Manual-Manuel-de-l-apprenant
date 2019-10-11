@@ -1,10 +1,10 @@
-# Welcome to CSPS Digital Academy Premium Cohort 2
+# <span style="color:purple">Welcome to CSPS Digital Academy Premium Cohort 2</span>
 
 Congratulations again for having been selected to participate in the second iteration of the Canada School of Public Service Digital Academy Premium pilot!
 
 Premium is an experimental, fast-paced, supportive learning experience to enable you to solve problems by working smarter, not harder, while increasing your knowledge and skills in areas deemed essential to success in delivering responsive and relevant services to Canadians
 
-## <span style="color:red"> How to use this Learner Manual</span>
+## <span style="color:pink"> How to use this Learner Manual</span>
 This learner manual is a reference tool to guide you before you begin and while you are engaged in this intensive and out-of-the-box learning experience. The purpose of this document is to cover most questions you may have throughout the process.
 
 ## Premium Learning Journey
