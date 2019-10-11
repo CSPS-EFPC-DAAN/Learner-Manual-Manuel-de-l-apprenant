@@ -226,7 +226,7 @@ The Digital Academy User Experience (UX) team will be conducting a user research
    </tr>
    <tr>
     <td><b>Coach</b><td>
-    <td> </td>
+    <td></td>
     <td>
      <ul>
       <li>Designs and facilitates workshop on facilitation and coaching for advisors</li>
@@ -234,7 +234,7 @@ The Digital Academy User Experience (UX) team will be conducting a user research
       <li>Supports advisors</li>
       <li>Supports teams when they enter prototyping phase</li>
      </ul>
-     </td>
+    </td>
     <td>Our coaches are available to advisors from November 4 to December 20, and will be available on site throughout practicum from January 6 to 20</td>
    </tr>
    <tr>
