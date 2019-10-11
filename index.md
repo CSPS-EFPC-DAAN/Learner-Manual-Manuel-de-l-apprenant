@@ -260,13 +260,3 @@ The Digital Academy User Experience (UX) team will be conducting a user research
     <td>Access to mentors is arranged through your advisor; talk to your advisor about your mentoring needs.</td>
   </tbody>
 </table>
-
-
-![Black and white image of a top-down view of a person typing on a laptop. The words "Thank you!" overlays the image.](https://wiki.gccollab.ca/images/c/cd/DA_window_4.jpg)
-
-*************************
-*************************
-*************************
-
-
-
