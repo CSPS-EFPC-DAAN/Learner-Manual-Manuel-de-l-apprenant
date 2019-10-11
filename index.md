@@ -258,5 +258,3 @@ The Digital Academy User Experience (UX) team will be conducting a user research
      </ul>
     </td>
     <td>Access to mentors is arranged through your advisor; talk to your advisor about your mentoring needs.</td>
-  </tbody>
-</table>
