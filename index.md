@@ -184,19 +184,25 @@ The Digital Academy User Experience (UX) team will be conducting a user research
 <table>
   <tbody>
     <tr>
-      <th>Tables</th>
-      <th align="center">Are</th>
-      <th align="right">Cool</th>
+      <th>Title</th>
+      <th>Who</th>
+      <th>Role</th>
+      <th>Availability and access</th>
     </tr>
     <tr>
-      <td>col 3 is</td>
-      <td align="center">right-aligned</td>
-      <td align="right">$1600</td>
-    </tr>
-    <tr>
-      <td>col 2 is</td>
-      <td align="center">centered</td>
-      <td align="right">$12</td>
+      <td>**Instructor**</td>
+      <td>Seasoned subject matter expert</td>
+      <td>
+       <ul>
+        <li>Delivers content (in the classroom and virtually)</li>
+        <li>Interacts with learners</li>
+        <li>Adapts content and delivery to learners’ needs</li>
+        <li>Encourages knowledge transfer and application</li>
+       </ul>
+      </td>
+      <td>During instructor-led learning from November 4 to December 20.</td>
+     </tr>
+
     </tr>
     <tr>
       <td>zebra stripes</td>
