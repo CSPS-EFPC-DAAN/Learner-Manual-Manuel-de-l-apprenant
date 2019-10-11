@@ -182,7 +182,7 @@ The Digital Academy User Experience (UX) team will be conducting a user research
 
 ## Annex A: Roles
 
-Title | Who | Role | Availability and access
+Title | Who | Role               | Availability and access
 ------|-----|--------------------|----------
 **Instructor** | Seasoned subject matter expert | <ul><li>Delivers content (in the classroom and virtually)</li><li>Interacts with learners</li><li>Adapts content and delivery to learners’ needs</li><li>Encourages knowledge transfer and application</li></ul> | During instructor-led learning from November 4 to December 20.
 **Teaching Assistant** | Student or practitioner in one of the specialized streams | <ul><li>Supports learners who may need additional assistance on a one-on-one or group basis, both virtually and in the classroom</li></ul> | During instructor-led learning from November 4 to December 20. They can also be reached by Slack or email during self-study periods. 
