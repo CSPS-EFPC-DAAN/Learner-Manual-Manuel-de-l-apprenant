@@ -49,13 +49,13 @@ Common learning is content and topics relevant to all streams that all learners 
 ### Problem-based Learning
 One of the main objectives of Premium is to enhance your ability to identify business problems (and not just their symptoms) in order to develop effective solutions that could have a real impact on your organisation and the life of Canadians. This is why we asked you, as part of the registration process, to submit a problem to explore during Premium. 
 
-1. <b>One-week in-person Bootcamp</b>
+**1.One-week in-person Bootcamp**
 
 You will be introduced to the importance of identifying the right problem before developing a solution. Our expert design thinking practitioners will lead you through a series of group and individual exercises on problem definition. You will also get to know your team.
 
 Teams, which will be formed prior to bootcamp, will be typically made of 5 to 8 learners with representatives from each stream. You will share and collaborate with your team during your entire Premium journey, including during Practicum when you will be prototyping a solution for a real business problem. 
 
-2. <b>7 weeks of part-time learning through work on problem and sharing in the learning circles</b>
+**2.7 weeks of part-time learning through work on problem and sharing in the learning circles**
 
 Following Bootcamp, you will meet with your team once a week for 1.5-2 hours in your learning circle, whose objectives is to provide all team members an opportunity to:
 * share what they have learned in their respective stream
@@ -68,7 +68,7 @@ Teams are responsible for setting a time and place for their learning circles ea
 
 It’s important to note that only one problem per team will be selected for practicum. Teams will be involved in the selection, which may occur during the bootcamp or later in the process. By the time the practicum rolls around, each team will have a well-defined problem and have identified the data sources required to prototype a solution. Even if your problem is not selected, this should not prevent you from exploring it on your own, applying what you have learned.
 
-3. <b>2-week practicum, including Demo Day</b>
+**3.2-week practicum, including Demo Day**
 
 During the first 3 days of the practicum, you will have the opportunity, with your team, to brainstorm potential innovative solutions to the problem you have selected, pick one for prototyping and start planning the development of your prototype using agile approaches and methods. During the following prototyping phase, in addition to your advisor, you will have access to experts, mentors and agile coaches to support you. You will have the opportunity to learn more about pitching, and will present your proof of concept and prototype at least three times during the practicum, including on Demo Day, where you will show your colleagues, your managers and a panel of executives from across the government what you have managed to achieve in two short weeks. We guarantee they will be impressed - and so will you.
 
