@@ -181,6 +181,7 @@ The Digital Academy User Experience (UX) team will be conducting a user research
 * [Busrides](https://en.busrides-trajetsenbus.ca/)
 
 ## Annex A: Roles
+
 <table>
   <tbody>
     <tr>
@@ -202,23 +203,6 @@ The Digital Academy User Experience (UX) team will be conducting a user research
       </td>
       <td>During instructor-led learning from November 4 to December 20.</td>
      </tr>
-
-    </tr>
-    <tr>
-      <td>zebra stripes</td>
-      <td align="center">are neat</td>
-      <td align="right">$1</td>
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li>item1</li>
-          <li>item2</li>
-        </ul>
-      </td>
-      <td align="center">See the list</td>
-      <td align="right">from the first column</td>
-    </tr>
   </tbody>
 </table>
 
