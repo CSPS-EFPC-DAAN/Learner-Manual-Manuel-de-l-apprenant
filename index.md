@@ -213,6 +213,18 @@ The Digital Academy User Experience (UX) team will be conducting a user research
      </td>
     <td>During instructor-led learning from November 4 to December 20. They can also be reached by Slack or email during self-study periods.</td>
     </tr>
+   <tr>
+    <td><b>Member of Design thinking team</b></td>
+    <td>Practitioners with various experience levels, from the Public Service and potentially beyond. May include alumni from the design stream </td>
+    <td>Two main roles - lead and support - that can alternate depending on problem-based component.<br> 
+     <ul>
+      <li>Leads design and facilitate bootcamp, weekly problem-based activities and/or first three days of practicum</li>
+      <li>When not leading, members of the Design Thinking team act as support</li>
+     </ul>
+     </td>
+    
+
+
     
 
   </tbody>
