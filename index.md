@@ -1,5 +1,3 @@
-*(le français suit)*
-
 # Welcome to CSPS Digital Academy Premium Cohort 2
 
 Congratulations again for having been selected to participate in the second iteration of the Canada School of Public Service Digital Academy Premium pilot!
