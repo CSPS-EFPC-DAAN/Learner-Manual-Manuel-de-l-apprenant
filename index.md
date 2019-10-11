@@ -113,10 +113,10 @@ Please note that although in-person participation for the 12-day practicum is no
 * Ottawa taxi companies:
 * Blue Line (613) 238-1111 [Website](http://www.bluelinetaxi.com)
 * Gatineau taxi companies: 
- * Taxi Loyal (819) 663-5252 [Website](https://www.loyaltaxi.com)
+  * Taxi Loyal (819) 663-5252 [Website](https://www.loyaltaxi.com)
 * Ottawa Airport [Ground Transportation Website](https://yow.ca/en/parking-transportation/ground-transportation-options)
- * Airport-authorized transportation is recommended 
- * Ridesharing pick-up is also available
+  * Airport-authorized transportation is recommended 
+  * Ridesharing pick-up is also available
 
 ### Things to do
 
