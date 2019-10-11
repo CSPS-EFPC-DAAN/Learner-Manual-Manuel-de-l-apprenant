@@ -19,11 +19,11 @@ Premium is more than a learning product: it’s a community that will be there t
 ## Learning Approach
 Premium has three main learning components: 
 
-Stream-based learning, where two days a week for 7 weeks individuals enhance their knowledge and skills in a specialized area through instructor-led activities and self-study. 
+- **Stream-based learning**, where two days a week for 7 weeks individuals enhance their knowledge and skills in a specialized area through instructor-led activities and self-study. 
 
-Common learning, where learners from all streams, once or twice a week over the same 7 weeks, are introduced to cross-cutting topics such as accessibility, working in the open and agile, via short webinars.
+- **Common learning**, where learners from all streams, once or twice a week over the same 7 weeks, are introduced to cross-cutting topics such as accessibility, working in the open and agile, via short webinars.
 
-Problem-based learning, where learners explore their problems and share their learning with their team through weekly learning circles over the same 7-week period. This component also includes the initial in-person bootcamp in Ottawa, where learners are introduced to user-centered design and problem definition, as well as the 12-day capstone Practicum, when learners ideate, prototype, test and pitch a solution to the problem selected by their team.
+- **Problem-based learning**, where learners explore their problems and share their learning with their team through weekly learning circles over the same 7-week period. This component also includes the initial in-person bootcamp in Ottawa, where learners are introduced to user-centered design and problem definition, as well as the 12-day capstone Practicum, when learners ideate, prototype, test and pitch a solution to the problem selected by their team.
 
 Refer to the [Calendar](https://docs.google.com/spreadsheets/d/1drNXGc4GBlAP3fsTaMfUWbK2VQGbc8bA/edit#gid=1127847901) for an overview of the schedule for each week.
 
@@ -49,7 +49,7 @@ Common learning is content and topics relevant to all streams that all learners 
 ### Problem-based Learning
 One of the main objectives of Premium is to enhance your ability to identify business problems (and not just their symptoms) in order to develop effective solutions that could have a real impact on your organisation and the life of Canadians. This is why we asked you, as part of the registration process, to submit a problem to explore during Premium. 
 
-**1. One-week in-person Bootcamp**
+**1.\ One-week in-person Bootcamp**
 
 You will be introduced to the importance of identifying the right problem before developing a solution. Our expert design thinking practitioners will lead you through a series of group and individual exercises on problem definition. You will also get to know your team.
 
