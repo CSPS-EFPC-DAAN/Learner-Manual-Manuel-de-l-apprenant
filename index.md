@@ -4,7 +4,7 @@ Congratulations again for having been selected to participate in the second iter
 
 Premium is an experimental, fast-paced, supportive learning experience to enable you to solve problems by working smarter, not harder, while increasing your knowledge and skills in areas deemed essential to success in delivering responsive and relevant services to Canadians
 
-## How to use this Learner Manual
+## <span style="color:red"> How to use this Learner Manual</span>
 This learner manual is a reference tool to guide you before you begin and while you are engaged in this intensive and out-of-the-box learning experience. The purpose of this document is to cover most questions you may have throughout the process.
 
 ## Premium Learning Journey
