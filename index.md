@@ -191,7 +191,7 @@ The Digital Academy User Experience (UX) team will be conducting a user research
       <th>Availability and access</th>
     </tr>
     <tr>
-      <td>**Instructor**</td>
+      <td><b>Instructor</b></td>
       <td>Seasoned subject matter expert</td>
       <td>
        <ul>
