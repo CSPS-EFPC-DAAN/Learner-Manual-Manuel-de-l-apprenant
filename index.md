@@ -49,11 +49,7 @@ Common learning is content and topics relevant to all streams that all learners 
 ### Problem-based Learning
 One of the main objectives of Premium is to enhance your ability to identify business problems (and not just their symptoms) in order to develop effective solutions that could have a real impact on your organisation and the life of Canadians. This is why we asked you, as part of the registration process, to submit a problem to explore during Premium. 
 
-**1.\ One-week in-person Bootcamp**
-
-You will be introduced to the importance of identifying the right problem before developing a solution. Our expert design thinking practitioners will lead you through a series of group and individual exercises on problem definition. You will also get to know your team.
-
-Teams, which will be formed prior to bootcamp, will be typically made of 5 to 8 learners with representatives from each stream. You will share and collaborate with your team during your entire Premium journey, including during Practicum when you will be prototyping a solution for a real business problem. 
+**1\. One-week in-person Bootcamp**\ You will be introduced to the importance of identifying the right problem before developing a solution. Our expert design thinking practitioners will lead you through a series of group and individual exercises on problem definition. You will also get to know your team.\ Teams, which will be formed prior to bootcamp, will be typically made of 5 to 8 learners with representatives from each stream. You will share and collaborate with your team during your entire Premium journey, including during Practicum when you will be prototyping a solution for a real business problem. 
 
 **2. 7 weeks of part-time learning through work on problem and sharing in the learning circles**
 
