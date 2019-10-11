@@ -185,6 +185,14 @@ The Digital Academy User Experience (UX) team will be conducting a user research
 Title | Who | Role | Availability and access
 ------|-----|------|------------------------
 **Instructor** | Seasoned subject matter expert | <ul><li>Delivers content (in the classroom and virtually)</li><li>Interacts with learners</li><li>Adapts content and delivery to learners’ needs</li><li>Encourages knowledge transfer and application</li></ul> | During instructor-led learning from November 4 to December 20.
+------|-----|------|------------------------
+**Teaching Assistant** | Student or practitioner in one of the specialized streams | <ul><li>Supports learners who may need additional assistance on a one-on-one or group basis, both virtually and in the classroom</li></ul> | During instructor-led learning from November 4 to December 20. They can also be reached by Slack or email during self-study periods. 
+------|-----|------|------------------------
+**Member of Design thinking team** | Practitioners with various experience levels, from the Public Service and potentially beyond. May include alumni from the design stream | Two main roles - lead and support - that can alternate depending on problem-based component.\ <ul><li>Leads design and facilitate bootcamp, weekly problem-based activities and/or first three days of practicum</li><li>When not leading, members of the Design Thinking team act as support</li></ul> | They can be reached by appointment from November 4 to December 20, if you have questions on weekly problem-based assignments. A link to a weekly appointment schedule will be posted on Moodle
+
+
+
+
 
 
 
