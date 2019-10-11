@@ -203,6 +203,18 @@ The Digital Academy User Experience (UX) team will be conducting a user research
       </td>
       <td>During instructor-led learning from November 4 to December 20.</td>
      </tr>
+   <tr>
+    <td><b>Teaching Assistant</b></td>
+    <td>Student or practitioner in one of the specialized stream</td>
+    <td>
+     <ul>
+      <li>Supports learners who may need additional assistance on a one-on-one or group basis, both virtually and in the classroom</li>
+      </ul>
+     </td>
+    <td>During instructor-led learning from November 4 to December 20. They can also be reached by Slack or email during self-study periods.</td>
+    </tr>
+    
+
   </tbody>
 </table>
 
