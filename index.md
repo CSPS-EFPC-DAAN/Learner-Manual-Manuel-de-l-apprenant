@@ -184,7 +184,7 @@ The Digital Academy User Experience (UX) team will be conducting a user research
     <tr>
       <th>Title</th>
       <th>Who</th>
-      <th>Role</th>
+      <th>Role                   </th>
       <th>Availability and access</th>
     </tr>
     <tr>
