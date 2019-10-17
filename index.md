@@ -5,10 +5,10 @@ Congratulations again for having been selected to participate in the second iter
 
 Premium is an experimental, fast-paced, supportive learning experience to enable you to solve problems by working smarter, not harder, while increasing your knowledge and skills in areas deemed essential to success in delivering responsive and relevant services to Canadians
 
-## <span style="color:rgb(218,121,122)">How to use this Learner Manual</span>
+## <span style="color:#4e5b73">How to use this Learner Manual</span>
 This learner manual is a reference tool to guide you before you begin and while you are engaged in this intensive and out-of-the-box learning experience. The purpose of this document is to cover most questions you may have throughout the process.
 
-## <span style="color:rgb(218,121,122)">Premium Learning Journey</span>
+## <span style="color:#4e5b73">Premium Learning Journey</span>
 Premium is a unique learning opportunity for public servants to develop their knowledge and skills in specialized areas such as Design, Data, Artificial Intelligence (AI)/Machine Learning (ML), Development and DevOps while exploring an organizational problem and solving it in a way that leads to a user-centered solution.
 
 Through a mix of in-person and virtual learning activities, you will discover the art of the possible with respect to digital tools and approaches, and experience what working in an accelerator feels like as you spend 12 days during the capstone Practicum prototyping a solution to a real business problem with a multidisciplinary team. 
