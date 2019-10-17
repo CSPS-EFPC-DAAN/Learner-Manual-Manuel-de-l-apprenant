@@ -5,10 +5,10 @@ Congratulations again for having been selected to participate in the second iter
 
 Premium is an experimental, fast-paced, supportive learning experience to enable you to solve problems by working smarter, not harder, while increasing your knowledge and skills in areas deemed essential to success in delivering responsive and relevant services to Canadians
 
-## <span style="color:#4e5b73">How to use this Learner Manual</span>
+## <span style="color:rgb(218,121,122)">How to use this Learner Manual</span>
 This learner manual is a reference tool to guide you before you begin and while you are engaged in this intensive and out-of-the-box learning experience. The purpose of this document is to cover most questions you may have throughout the process.
 
-## <span style="color:#4e5b73">Premium Learning Journey</span>
+## <span style="color:rgb(218,121,122)">Premium Learning Journey</span>
 Premium is a unique learning opportunity for public servants to develop their knowledge and skills in specialized areas such as Design, Data, Artificial Intelligence (AI)/Machine Learning (ML), Development and DevOps while exploring an organizational problem and solving it in a way that leads to a user-centered solution.
 
 Through a mix of in-person and virtual learning activities, you will discover the art of the possible with respect to digital tools and approaches, and experience what working in an accelerator feels like as you spend 12 days during the capstone Practicum prototyping a solution to a real business problem with a multidisciplinary team. 
@@ -28,7 +28,7 @@ Premium has three main learning components:
 
 Refer to the [Calendar](https://docs.google.com/spreadsheets/d/1drNXGc4GBlAP3fsTaMfUWbK2VQGbc8bA/edit#gid=1127847901) for an overview of the schedule for each week.
 
-### <span style="color:#3f2a56">Stream-based learning</span> 
+### <span style="color:#4e5b73">Stream-based learning</span> 
 **The Data Learning Stream**
 The Data stream provides a survey of the concepts and skills essential for becoming a data practitioner. This includes a review of the different parts of the data pipeline and relevant skills and concepts required to work with each part of this pipeline, from data collection to data presentation. Specific topics including data architectures, measures and metrics, data validation and data visualization.
 
@@ -44,10 +44,10 @@ The Design stream will allow learners to better understand design as a practice.
 **The AI/ML Learning Stream**
 The AI/ML stream provides an overview of the concepts and skills required to become a data scientist. It will include fundamental concepts common to data work (data preparation, data visualization) and an overview of the main branches of machine learning, including supervised learning (classification and value estimation) and unsupervised learning (association rules and clustering). An emphasis in the AI/ML stream will be on exercises in R where learners will implement techniques learned during stream-based learning using relevant datasets and specific R libraries.
 
-### <span style="color:#3f2a56">Common Learning</span>
+### <span style="color:#4e5b73">Common Learning</span>
 Common learning is content and topics relevant to all streams that all learners are expected to attend. It is typically delivered on Mondays and Tuesdays from 2:00-3:30pm ET. The complete list of topics, with dates, can be found on Premium’s Moodle space. The sessions are delivered virtually, recorded for future reference and posted on Moodle. Their goal is to ensure all learners share a common understanding of key concepts underpinning the new way of thinking and doing expected of public servants as they tackle emerging problems and develop solutions that are timely and effective. Some of these concepts are studied in more depth in the different streams.
 
-### <span style="color:#3f2a56">Problem-based Learning</span>
+### <span style="color:#4e5b73">Problem-based Learning</span>
 One of the main objectives of Premium is to enhance your ability to identify business problems (and not just their symptoms) in order to develop effective solutions that could have a real impact on your organisation and the life of Canadians. This is why we asked you, as part of the registration process, to submit a problem to explore during Premium. 
 
 **1. One-week in-person Bootcamp** 
@@ -104,7 +104,7 @@ Premium is delivered  in person, virtually, or both in-person and virtually depe
 
 Please note that although in-person participation for the 12-day practicum is not mandatory for learners located outside the NCR, we still strongly recommend that regional participants come to Ottawa for the first 3 days when ideation on a potential solution and the development of a proof of concept will take place. 
 
-### <span style="color:rgb(60,64,67)">Transportation Options
+### <span style="color:#4e5b73">Transportation Options
 
 * Ottawa Airport [Ground Transportation Website](https://yow.ca/en/parking-transportation/ground-transportation-options)
 * Ridesharing: Uber and Lyft operate in Ottawa but are not available in Gatineau, Quebec
@@ -119,13 +119,13 @@ Please note that although in-person participation for the 12-day practicum is no
   * Airport-authorized transportation is recommended 
   * Ridesharing pick-up is also available
 
-### <span style="color:rgb(60,64,67)">Things to do</span>
+### <span style="color:#4e5b73">Things to do</span>
 
 * [Narcity](https://www.narcity.com/local/ca/on/ottawa) 
 * [Eventbrite](https://www.eventbrite.ca/d/canada--ottawa/events/)
 * [Official Ottawa Tourism site](https://www.ottawatourism.ca/events/)
 
-### Bootcamp location (October 28 - November 1)
+### <span style="color:#4e5b73">Bootcamp location (October 28 - November 1)</span>
 
 [Sala San Marco Map](http://salasanmarco.ca/)
 215 Preston Street
@@ -133,7 +133,7 @@ Ottawa
 
 * Free parking on site
 
-### Stream learning location (November 4 to December 20)
+### <span style="color:#4e5b73">Stream learning location (November 4 to December 20)</span>
 
 111 Sussex Drive, Ottawa [Map](https://www.google.com/maps/place/111+Sussex+Dr,+Ottawa,+ON+K1N+1J1/@45.4386896,-75.694582,17.9z/data=!4m5!3m4!1s0x4cce04e7311278bd:0xe7e0273285ee6f32!8m2!3d45.4396305!4d-75.693755) 
 
@@ -145,7 +145,7 @@ Ottawa
 * Dress Code: Casual. Bring a sweater or jacket to ensure your comfort.
 * Allergies: Some participants attending the course may suffer from environmental sensitivities. Please refrain from using fragranced products for the duration of the course.
 
-### Practicum and Demo Day location (January 6 to 22)
+### <span style="color:#4e5b73">Practicum and Demo Day location (January 6 to 22)</span>
 
 Still to be confirmed, but it will be in the NCR. More information will be provided once the venue is confirmed.
 
