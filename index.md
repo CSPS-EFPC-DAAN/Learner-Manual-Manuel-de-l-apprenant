@@ -75,6 +75,8 @@ During the first 3 days of the practicum, you will have the opportunity, with yo
 
 Demo Day marks the official end of Premium, but not of your learning journey with us. You will join our community and be invited to all the major events we organize. We will also follow up regularly with you on how you’ve implemented what you’ve learned in your organization, and give you advice on how to remove barriers.
 
+![IMG_8389](https://user-images.githubusercontent.com/56354354/67013998-10f00d80-f0c2-11e9-91ee-2958444b3309.jpg)
+
 ## <span style="color:rgb(218,121,122)">Technical Requirements</span>
 
 You will require a laptop for which you have administrative rights to install required software.  If you cannot acquire a device, please [contact us ASAP](mailto:csps.digitalacademy-academiedunumerique@canada.ca).
