@@ -363,3 +363,86 @@ L’équipe de l’expérience utilisateur (EU) de l’Académie du numérique m
 * [Twitter](https://twitter.com/AcademieNumCAN)
 * [LinkedIn](https://www.linkedin.com/company/csps-digiacademy-acadenum-efpc/)
 * [Trajetsenbus](https://fr.busrides-trajetsenbus.ca/)
+
+## <span style="color:rgb(218,121,122)">Annex A: Roles</span>
+<table>
+  <tbody>
+    <tr>
+      <th>Who</th>
+      <th>Role                   </th>
+      <th>Availability and access</th>
+    </tr>
+    <tr>
+      <td>
+       <b>Instructor</b>
+       <br><br>Seasoned subject matter expert
+      </td>
+      <td>
+       <ul>
+        <li>Delivers content (in the classroom and virtually)</li>
+        <li>Interacts with learners</li>
+        <li>Adapts content and delivery to learners’ needs</li>
+        <li>Encourages knowledge transfer and application</li>
+       </ul>
+      </td>
+      <td>During instructor-led learning from November 4 to December 20.</td>
+   </tr>
+   <tr>
+    <td>
+     <b>Teaching Assistant</b>
+     <br><br>Student or practitioner in one of the specialized stream
+    </td>
+    <td>
+     <ul>
+      <li>Supports learners who may need additional assistance on a one-on-one or group basis, both virtually and in the classroom</li>
+      </ul>
+    </td>
+    <td>During instructor-led learning from November 4 to December 20. They can also be reached by Slack or email during self-study periods.</td>
+   </tr>
+   
+   <tr>
+    <td>
+     <b>Member of Design thinking team</b>
+     <br><br>Practitioners with various experience levels, from the Public Service and potentially beyond. May include alumni from the design stream
+     </td>
+    <td>Two main roles - lead and support - that can alternate depending on problem-based component.<br> 
+     <ul>
+      <li>Leads design and facilitate bootcamp, weekly problem-based activities and/or first three days of practicum</li>
+      <li>When not leading, members of the Design Thinking team act as support</li>
+     </ul>
+    </td>
+    <td>They can be reached by appointment from November 4 to December 20, if you have questions on weekly problem-based assignments. A link to a weekly appointment schedule will be posted on Moodle</td>
+   </tr>
+   <tr>
+    <td><b>Coach</b></td>
+    <td>
+     <ul>
+      <li>Designs and facilitates workshop on facilitation and coaching for advisors</li>
+      <li>Designs and develops introduction to learning circles for learners</li>
+      <li>Supports advisors</li>
+      <li>Supports teams when they enter prototyping phase</li>
+     </ul>
+    </td>
+    <td>Our coaches are available to advisors from November 4 to December 20, and will be available on site throughout practicum from January 6 to 20</td>
+   </tr>
+   <tr>
+    <td><b>Advisor</b><br><br>Can be someone from the School or Academy, or an alumni</td>
+    <td>Empowers learners to achieve their goals by:<br>
+     <ul>
+      <li>Providing quick access to experts and mentors on an as needed-basis</li>
+      <li>Pointing learners to relevant learning resources</li>
+      <li>Helping remove administrative and technical roadblocks</li>
+     </ul>
+     </td>
+    <td>Your advisor will touch base with you every week, either by phone, zoom, Slack or email, to enquire about how you’re doing. You will meet your advisor during bootcamp and decide together on the best time and mode of communication for your weekly chats</td>
+   </tr>
+   <tr>
+    <td><b>Mentor</b><br><br>Experienced practitioner from government, industry,  not-for-profit sector, or academia</td>
+    <td>Helps learners self-reflect, problem-solve and develop solutions by:<br>
+     <ul>
+      <li>Sharing experience, perspective and insights</li>
+      <li>Connecting learners to potential partners</li>
+      <li>Providing access to resources in some cases</li>
+     </ul>
+    </td>
+    <td>Access to mentors is arranged through your advisor; talk to your advisor about your mentoring needs.</td>
