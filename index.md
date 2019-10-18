@@ -21,23 +21,24 @@ Premium is more than a learning product: it’s a community that will be there t
 ## <span style="color:rgb(218,121,122)">Learning Approach</span>
 Premium has three main learning components: 
 
-- **Stream-based learning**, where two days a week for 7 weeks individuals enhance their knowledge and skills in a specialized area through instructor-led activities and self-study. 
+- **Specialized learning**, where two days a week for 7 weeks individuals enhance their knowledge and skills in a specialized area through instructor-led activities and self-study. 
 
 - **Common learning**, where learners from all streams, once or twice a week over the same 7 weeks, are introduced to cross-cutting topics such as accessibility, working in the open and agile, via short webinars.
 
 - **Problem-based learning**, where learners explore their problems and share their learning with their team through weekly learning circles over the same 7-week period. This component also includes the initial in-person bootcamp in Ottawa, where learners are introduced to user-centered design and problem definition, as well as the 12-day capstone Practicum, when learners ideate, prototype, test and pitch a solution to the problem selected by their team.
 
+**IMPORTANT**: Please note that we will provide you with a French translation of 
+the documentation that our instructors and facilitators will use, but that the 
+training itself will be conducted in English. In addition, we will take your language preference into account when we form the teams.
+
 Refer to the [Calendar](https://docs.google.com/spreadsheets/d/1drNXGc4GBlAP3fsTaMfUWbK2VQGbc8bA/edit#gid=1127847901) for an overview of the schedule for each week.
 
-### <span style="color:#4e5b73">Stream-based learning</span> 
+### <span style="color:#4e5b73">Specialized learning</span> 
 **The Data Learning Stream**
 The Data stream provides a survey of the concepts and skills essential for becoming a data practitioner. This includes a review of the different parts of the data pipeline and relevant skills and concepts required to work with each part of this pipeline, from data collection to data presentation. Specific topics including data architectures, measures and metrics, data validation and data visualization.
 
-**The Dev Learning Stream**
-The Development stream will equip learners with the knowledge and skills in the areas of front end development including version control (Git), command line (Bash,SSH), HTML/CSS, JavaScript and Python. Participants will learn how-to use open source tools to build a POC (Proof of Concept) and an MVP (Minimum-Viable Product). The course will also review the Agile development methodology, accessibility standards, and basic security concepts.
-
-**The DevOps Learning Stream**
-The DevOps stream includes the latest principles and practices from the DevOps community in the Government of Canada and industry experts. By the end of this training, learners will be able to write scripts using Python, understand the nuances of Open Source Software as it relates to Software Developers and Operators, as well as build and deploy Continuous Integration and Continuous Deployment pipelines, and more.
+**The Dev and DevOps Learning Stream**
+The Development stream will equip learners with the knowledge and skills in the areas of front end development including version control (Git), command line (Bash,SSH), HTML/CSS, JavaScript and Python. Participants will learn how-to use open source tools to build a POC (Proof of Concept) and an MVP (Minimum-Viable Product). The course will also review the Agile development methodology, accessibility standards, and basic security concepts. By the end of this training, learners will be able to write scripts using Python, understand the nuances of Open Source Software as it relates to Software Developers and Operators, as well as build and deploy Continuous Integration and Continuous Deployment pipelines, and more.
 
 **The Design Learning Stream**
 The Design stream will allow learners to better understand design as a practice. The course will equip learners with knowledge and skills in the areas of ethical and inclusive service design, user research, problem definition and solution prototyping, content design, usability testing and iteration, measuring for impact, partnership building, and stewardship.
@@ -46,7 +47,7 @@ The Design stream will allow learners to better understand design as a practice.
 The AI/ML stream provides an overview of the concepts and skills required to become a data scientist. It will include fundamental concepts common to data work (data preparation, data visualization) and an overview of the main branches of machine learning, including supervised learning (classification and value estimation) and unsupervised learning (association rules and clustering). An emphasis in the AI/ML stream will be on exercises in R where learners will implement techniques learned during stream-based learning using relevant datasets and specific R libraries.
 
 ### <span style="color:#4e5b73">Common Learning</span>
-Common learning is content and topics relevant to all streams that all learners are expected to attend. It is typically delivered on Mondays and Tuesdays from 2:00-3:30pm ET. The complete list of topics, with dates, can be found on Premium’s Moodle space. The sessions are delivered virtually, recorded for future reference and posted on Moodle. Their goal is to ensure all learners share a common understanding of key concepts underpinning the new way of thinking and doing expected of public servants as they tackle emerging problems and develop solutions that are timely and effective. Some of these concepts are studied in more depth in the different streams.
+Common learning is content and topics relevant to all learning areas that all learners are expected to attend. It is typically delivered on Mondays and Tuesdays from 2:00-3:30pm ET. The complete list of topics, with dates, can be found on Premium’s Moodle space. The sessions are delivered virtually, recorded for future reference and posted on Moodle. Their goal is to ensure all learners share a common understanding of key concepts underpinning the new way of thinking and doing expected of public servants as they tackle emerging problems and develop solutions that are timely and effective. Some of these concepts are studied in more depth in the different specializations.
 
 ### <span style="color:#4e5b73">Problem-based Learning</span>
 One of the main objectives of Premium is to enhance your ability to identify business problems (and not just their symptoms) in order to develop effective solutions that could have a real impact on your organisation and the life of Canadians. This is why we asked you, as part of the registration process, to submit a problem to explore during Premium. 
@@ -57,7 +58,7 @@ You will be introduced to the importance of identifying the right problem before
 
 Teams, which will be formed prior to bootcamp, will be typically made of 5 to 8 learners with representatives from each stream. You will share and collaborate with your team during your entire Premium journey, including during Practicum when you will be prototyping a solution for a real business problem. 
 
-**2. 7 weeks of part-time learning through work on problem and sharing in the learning circles**
+**2. Seven weeks of part-time learning through problem exploration, solution discovery and sharing in the learning circles**
 
 Following Bootcamp, you will meet with your team once a week for 1.5-2 hours in your learning circle, whose objectives is to provide all team members an opportunity to:
 * share what they have learned in their respective stream
@@ -68,7 +69,7 @@ You will also have an activity to do each week to deepen the understanding of yo
 
 Teams are responsible for setting a time and place for their learning circles each week. Participation is mandatory, and it can be virtual or in-person. You will be given time, on the last day of the bootcamp (November 1st), to agree on a time for the weekly learning circles (for example every Thursday from 1:00-2:30 ET) and book it in your calendars. 
 
-It’s important to note that only one problem per team will be selected for practicum. Teams will be involved in the selection, which may occur during the bootcamp or later in the process. By the time the practicum rolls around, each team will have a well-defined problem and have identified the data sources required to prototype a solution. Even if your problem is not selected, this should not prevent you from exploring it on your own, applying what you have learned.
+By the time the practicum begins, each team will have a well-defined problem and have identified the data sources required to prototype a solution. 
 
 **3. 2-week practicum, including Demo Day**
 
@@ -164,13 +165,13 @@ As a team member:
 * be respectful of other people’s perspectives
 * listen to understand, self-organize
 * look for potential connections between your problem and that of others
-* during practicum, be willing to contribute in different areas, including areas not directly linked to your stream
+* during practicum, be willing to contribute in different areas, including areas not directly linked to your specialization
 
 ## <span style="color:rgb(218,121,122)">Evaluation</span>
 
 An important part of the learning process is to evaluate where we are. Throughout your Premium learning, we will ask for your insights and feedback in a variety of ways – surveys, quick response polls, diary entries, 360 reviews, etc. We ask you to take the time to reflect and respond the best way you can to all questions. Your responses are an important part of the Premium course, your learning, and they enable us to improve the course. To help improve the Premium course, we may contact you and the manager who signed your application several weeks and/or months after you have completed Premium. We will not share any information that you provided in any evaluation for with your manager, the aim is to understand what can be done to improve the Premium course in the future.
 
-Evaluation information collected is under the authority of paragraph 4(f) of the Canada School of Public Service Act and will be stored in the School’s evaluation system. Please note that your personal information will remain confidential and is protected under the [Privacy Act](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-privacy-act/). For more information, refer to the School's [Privacy Notice](https://www.csps-efpc.gc.ca/termsandconditions/index-eng.aspx).
+Evaluation information collected is under the authority of paragraph 4(f) of the Canada School of Public Service Act and will be stored in the School’s evaluation system. Please note that your personal information will remain confidential and is protected under the *[Privacy Act](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-privacy-act/)*. For more information, refer to the School's *[Privacy Notice](https://www.csps-efpc.gc.ca/termsandconditions/index-eng.aspx)*.
 
 The Digital Academy User Experience (UX) team will be conducting a user research study throughout Premium to better our understand your Premium experience and improve the program for future cohorts. Your participation in the activities, which include interviews and co-creation exercises, are completely voluntary. Please know that your participation would be a valuable addition to our research and findings, and any information gathered will be kept confidential. If you'd like to get involved or have any questions, please contact [Janki Padaliya](mailto:janki.padaliya@canada.ca) and/or [Vivian Qi Fu](mailto:vivian.qifu@canada.ca). More details will be provided in Moodle soon.
 
