@@ -177,10 +177,10 @@ The Digital Academy User Experience (UX) team will be conducting a user research
 
 **Instructor**
 Who: Seasoned subject matter expert
-Role: - Delivers content (in the classroom and virtually)
-      - Interacts with learners
-      - Adapts content and delivery to learners’ needs
-      - Encourages knowledge transfer and application
+Role: * Delivers content (in the classroom and virtually)
+      * Interacts with learners
+      * Adapts content and delivery to learners’ needs
+      * Encourages knowledge transfer and application
 Availability and access: During instructor-led learning from November 4 to December 20.
 
 
