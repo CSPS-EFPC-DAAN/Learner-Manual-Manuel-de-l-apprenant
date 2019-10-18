@@ -175,13 +175,13 @@ The Digital Academy User Experience (UX) team will be conducting a user research
 
 ## <span style="color:rgb(218,121,122)">Annex A: Roles</span>
 
-**Instructor**
+**Instructor**.\
 Who: Seasoned subject matter expert.\
-Role: * Delivers content (in the classroom and virtually)
-      * Interacts with learners
-      * Adapts content and delivery to learners’ needs
-      * Encourages knowledge transfer and application
-Availability and access: During instructor-led learning from November 4 to December 20.
+Role: * Delivers content (in the classroom and virtually).\
+      * Interacts with learners.\
+      * Adapts content and delivery to learners’ needs.\
+      * Encourages knowledge transfer and application.\
+Availability and access: During instructor-led learning from November 4 to December 20.\
 
 
 ## <span style="color:rgb(218,121,122)">Stay in Touch</span>
