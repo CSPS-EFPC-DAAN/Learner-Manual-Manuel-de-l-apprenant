@@ -1,4 +1,4 @@
-[Français](index-fr.md)
+##[Français](index-fr.md)
 # <span style="color:#3f2a56">Welcome to CSPS Digital Academy Premium Cohort 2</span>
 ![banner1](https://user-images.githubusercontent.com/56354354/67013819-b9ea3880-f0c1-11e9-96ef-51f090391758.jpg)
 
