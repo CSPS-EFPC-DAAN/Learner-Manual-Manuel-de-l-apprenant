@@ -1,7 +1,7 @@
 ### [English](index.md)
 # <span style="color:#3f2a56">Bienvenue à l’Académie du numérique de l’EFPC Deuxième cohorte du volet Excellence</span>
 
-![banner1](https://user-images.githubusercontent.com/56354354/67013819-b9ea3880-f0c1-11e9-96ef-51f090391758.jpg)
+![banner](https://user-images.githubusercontent.com/56354354/67114502-0a3cc580-f1aa-11e9-9525-f344587b1e51.jpg)
 
 Encore une fois, nous vous félicitons d’avoir été sélectionné(e) pour cette deuxième édition du projet pilote Excellence de l’Académie du numérique de l’École de la fonction publique du Canada!
 
