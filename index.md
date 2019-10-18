@@ -185,12 +185,12 @@ The Digital Academy User Experience (UX) team will be conducting a user research
 <table>
   <tbody>
     <tr>
-      <th>Title & Who</th>
+      <th>Who</th>
       <th>Role                   </th>
       <th>Availability and access</th>
     </tr>
     <tr>
-      <td><b>Instructor Seasoned subject matter expert</b></td>
+      <td><b>Instructor</b><br>Seasoned subject matter expert</br></td>
       <td>
        <ul>
         <li>Delivers content (in the classroom and virtually)</li>
