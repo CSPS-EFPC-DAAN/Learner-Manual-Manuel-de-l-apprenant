@@ -192,7 +192,7 @@ The Digital Academy User Experience (UX) team will be conducting a user research
     <tr>
       <td>
        <b>Instructor</b>
-       <br>Seasoned subject matter expert
+       <br><br>Seasoned subject matter expert
       </td>
       <td>
        <ul>
