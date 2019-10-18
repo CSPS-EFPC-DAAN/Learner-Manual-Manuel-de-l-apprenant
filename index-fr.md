@@ -103,16 +103,16 @@ Please note that although in-person participation for the 12-day practicum is no
 
 ### <span style="color:#4e5b73">Options de transport</span>
 
-* Aéroport d’Ottawa | [Sites Web de transport au sol](https://yow.ca/fr/stationnement-et-transport/options-de-transport-au-sol)
+* Aéroport d’Ottawa [Sites Web de transport au sol](https://yow.ca/fr/stationnement-et-transport/options-de-transport-au-sol)
 * Covoiturage : Uber et Lyft sont offerts à Ottawa, mais pas à Gatineau (Québec).
 * OC Transpo détient Para Transpo, un service de transport de porte à porte pour les personnes handicapées. Pour réserver, composez le 613-244-7272. 
 * [Site Web des transports en commun d’Ottawa](https://www.octranspo.com/fr/)
 * Dans la ville d’Ottawa, vous pouvez prendre un taxi. Il n’est **pas recommandé** d’interpeller un taxi dans la rue; il est préférable de réserver un taxi la veille ou d’appeler la compagnie au moins 15 minutes à l’avance. 
 * Ottawa taxi companies:
-* Blue Line (613) 238-1111 | [Site Web](http://www.bluelinetaxi.com)
+* Blue Line (613) 238-1111 [Site Web](http://www.bluelinetaxi.com)
 * Compagnies de taxi de Gatineau : 
-  * Taxi Loyal (819) 663-5252 | [Site Web](https://www.loyaltaxi.com)
-* Aéroport d’Ottawa | [Sites Web de transport au sol](https://yow.ca/fr/stationnement-et-transport/options-de-transport-au-sol)
+  * Taxi Loyal (819) 663-5252 [Site Web](https://www.loyaltaxi.com)
+* Aéroport d’Ottawa [Sites Web de transport au sol](https://yow.ca/fr/stationnement-et-transport/options-de-transport-au-sol)
   * Airport-authorized transportation is recommended 
   * Ridesharing pick-up is also available
 
@@ -259,5 +259,3 @@ L’équipe de l’expérience utilisateur (EU) de l’Académie du numérique m
      </ul>
     </td>
     <td>L’accès à des mentors est organisé par votre conseiller; parlez-lui de vos besoins à cet égard.</td>
-    </tr>
-   </table>
