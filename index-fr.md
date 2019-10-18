@@ -1,4 +1,4 @@
-[English](index.md)
+### [English](index.md)
 # <span style="color:#3f2a56">Bienvenue à l’Académie du numérique de l’EFPC Deuxième cohorte du volet Excellence</span>
 
 ![banner1](https://user-images.githubusercontent.com/56354354/67013819-b9ea3880-f0c1-11e9-96ef-51f090391758.jpg)
@@ -73,7 +73,7 @@ Au cours des trois premiers jours du stage pratique, vous et votre équipe aurez
 
 La journée de démonstration marque la fin officielle du volet Excellence, mais pas de votre parcours d’apprentissage avec nous. Vous intégrerez notre communauté et serez invité(e) à tous les grands événements que nous organisons. Nous reprendrons contact régulièrement avec vous pour voir comment vous avez mis vos apprentissages en application dans votre organisation et pour vous présenter des conseils sur la façon d’éliminer les obstacles.
 
-![IMG_8389](https://user-images.githubusercontent.com/56354354/67013998-10f00d80-f0c2-11e9-91ee-2958444b3309.jpg)
+![anigif](https://user-images.githubusercontent.com/56354354/67114118-2be97d00-f1a9-11e9-83c9-6b8847559b23.gif)
 
 ## <span style="color:rgb(218,121,122)">Exigences techniques</span>
 
