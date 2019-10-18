@@ -173,17 +173,6 @@ Evaluation information collected is under the authority of paragraph 4(f) of the
 
 The Digital Academy User Experience (UX) team will be conducting a user research study throughout Premium to better our understand your Premium experience and improve the program for future cohorts. Your participation in the activities, which include interviews and co-creation exercises, are completely voluntary. Please know that your participation would be a valuable addition to our research and findings, and any information gathered will be kept confidential. If you'd like to get involved or have any questions, please contact [Janki Padaliya](mailto:janki.padaliya@canada.ca) and/or [Vivian Qi Fu](mailto:vivian.qifu@canada.ca). More details will be provided in Moodle soon.
 
-## <span style="color:rgb(218,121,122)">Annex A: Roles</span>
-
-**Instructor**.\
-Who: Seasoned subject matter expert.\
-Role: * Delivers content (in the classroom and virtually).\
-      * Interacts with learners.\
-      * Adapts content and delivery to learners’ needs.\
-      * Encourages knowledge transfer and application.\
-Availability and access: During instructor-led learning from November 4 to December 20.\
-
-
 ## <span style="color:rgb(218,121,122)">Stay in Touch</span>
 
 * [Sign up for our newsletter](http://eepurl.com/dKe2co)
@@ -191,3 +180,33 @@ Availability and access: During instructor-led learning from November 4 to Decem
 * [Twitter](https://twitter.com/DigiAcademyCAN)
 * [LinkedIn](https://www.linkedin.com/company/csps-digiacademy-acadenum-efpc/)
 * [Busrides](https://en.busrides-trajetsenbus.ca/)
+
+## <span style="color:rgb(218,121,122)">Annex A: Roles</span>
+<table>
+  <tbody>
+    <tr>
+      <th>Title & Who</th>
+      <th>Role                   </th>
+      <th>Availability and access</th>
+    </tr>
+    <tr>
+      <td><b>Instructor Seasoned subject matter expert</b></td>
+      <td>
+       <ul>
+        <li>Delivers content (in the classroom and virtually)</li>
+        <li>Interacts with learners</li>
+        <li>Adapts content and delivery to learners’ needs</li>
+        <li>Encourages knowledge transfer and application</li>
+       </ul>
+      </td>
+      <td>During instructor-led learning from November 4 to December 20.</td>
+   </tr>
+   <tr>
+    <td><b>Teaching Assistant Student or practitioner in one of the specialized stream</b></td>
+    <td>
+     <ul>
+      <li>Supports learners who may need additional assistance on a one-on-one or group basis, both virtually and in the classroom</li>
+      </ul>
+    </td>
+    <td>During instructor-led learning from November 4 to December 20. They can also be reached by Slack or email during self-study periods.</td>
+   </tr>
