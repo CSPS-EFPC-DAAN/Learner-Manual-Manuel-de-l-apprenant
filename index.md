@@ -190,7 +190,10 @@ The Digital Academy User Experience (UX) team will be conducting a user research
       <th>Availability and access</th>
     </tr>
     <tr>
-      <td><b>Instructor</b><br>Seasoned subject matter expert</br></td>
+      <td>
+       <b>Instructor</b>
+       <br>Seasoned subject matter expert
+      </td>
       <td>
        <ul>
         <li>Delivers content (in the classroom and virtually)</li>
@@ -202,7 +205,10 @@ The Digital Academy User Experience (UX) team will be conducting a user research
       <td>During instructor-led learning from November 4 to December 20.</td>
    </tr>
    <tr>
-    <td><b>Teaching Assistant</b><br>Student or practitioner in one of the specialized stream</br></td>
+    <td>
+     <b>Teaching Assistant</b>
+     <br>Student or practitioner in one of the specialized stream
+    </td>
     <td>
      <ul>
       <li>Supports learners who may need additional assistance on a one-on-one or group basis, both virtually and in the classroom</li>
@@ -212,7 +218,10 @@ The Digital Academy User Experience (UX) team will be conducting a user research
    </tr>
    
    <tr>
-    <td><b>Member of Design thinking team</b><br>Practitioners with various experience levels, from the Public Service and potentially beyond. May include alumni from the design stream</br></td>
+    <td>
+     <b>Member of Design thinking team</b>
+     <br>Practitioners with various experience levels, from the Public Service and potentially beyond. May include alumni from the design stream
+     </td>
     <td>Two main roles - lead and support - that can alternate depending on problem-based component.<br> 
      <ul>
       <li>Leads design and facilitate bootcamp, weekly problem-based activities and/or first three days of practicum</li>
@@ -234,7 +243,7 @@ The Digital Academy User Experience (UX) team will be conducting a user research
     <td>Our coaches are available to advisors from November 4 to December 20, and will be available on site throughout practicum from January 6 to 20</td>
    </tr>
    <tr>
-    <td><b>Advisor</b><br>Can be someone from the School or Academy, or an alumni</br></td>
+    <td><b>Advisor</b><br>Can be someone from the School or Academy, or an alumni</td>
     <td>Empowers learners to achieve their goals by:<br>
      <ul>
       <li>Providing quick access to experts and mentors on an as needed-basis</li>
@@ -245,7 +254,7 @@ The Digital Academy User Experience (UX) team will be conducting a user research
     <td>Your advisor will touch base with you every week, either by phone, zoom, Slack or email, to enquire about how you’re doing. You will meet your advisor during bootcamp and decide together on the best time and mode of communication for your weekly chats</td>
    </tr>
    <tr>
-    <td><b>Mentor</b><br>Experienced practitioner from government, industry,  not-for-profit sector, or academia</br></td>
+    <td><b>Mentor</b><br>Experienced practitioner from government, industry,  not-for-profit sector, or academia</td>
     <td>Helps learners self-reflect, problem-solve and develop solutions by:<br>
      <ul>
       <li>Sharing experience, perspective and insights</li>
