@@ -77,7 +77,7 @@ During the first 3 days of the practicum, you will have the opportunity, with yo
 
 Demo Day marks the official end of Premium, but not of your learning journey with us. You will join our community and be invited to all the major events we organize. We will also follow up regularly with you on how you’ve implemented what you’ve learned in your organization, and give you advice on how to remove barriers.
 
-![anigif](https://user-images.githubusercontent.com/56354354/67113323-33a82200-f1a7-11e9-821d-6caf7dadd5da.gif)
+![anigif](https://user-images.githubusercontent.com/56354354/67113919-aebe0800-f1a8-11e9-8414-20f8226721af.gif)
 
 ## <span style="color:rgb(218,121,122)">Technical Requirements</span>
 
