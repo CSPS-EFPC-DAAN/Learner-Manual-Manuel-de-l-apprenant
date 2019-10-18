@@ -1,6 +1,6 @@
 ### [Français](index-fr.md)
 # <span style="color:#3f2a56">Welcome to CSPS Digital Academy Premium Cohort 2</span>
-![banner1](https://user-images.githubusercontent.com/56354354/67013819-b9ea3880-f0c1-11e9-96ef-51f090391758.jpg)
+![banner](https://user-images.githubusercontent.com/56354354/67114502-0a3cc580-f1aa-11e9-9525-f344587b1e51.jpg)
 
 Congratulations again for having been selected to participate in the second iteration of the Canada School of Public Service Digital Academy Premium pilot!
 
