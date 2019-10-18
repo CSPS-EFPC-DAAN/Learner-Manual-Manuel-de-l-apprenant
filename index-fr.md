@@ -73,7 +73,7 @@ Au cours des trois premiers jours du stage pratique, vous et votre équipe aurez
 
 La journée de démonstration marque la fin officielle du volet Excellence, mais pas de votre parcours d’apprentissage avec nous. Vous intégrerez notre communauté et serez invité(e) à tous les grands événements que nous organisons. Nous reprendrons contact régulièrement avec vous pour voir comment vous avez mis vos apprentissages en application dans votre organisation et pour vous présenter des conseils sur la façon d’éliminer les obstacles.
 
-![anigif](https://user-images.githubusercontent.com/56354354/67114118-2be97d00-f1a9-11e9-83c9-6b8847559b23.gif)
+![anigif](https://user-images.githubusercontent.com/56354354/67114336-afa36980-f1a9-11e9-849e-d7b7c2e0db68.gif)
 
 ## <span style="color:rgb(218,121,122)">Exigences techniques</span>
 
