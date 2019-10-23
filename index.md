@@ -31,8 +31,6 @@ Premium has three main learning components:
 the documentation that our instructors and facilitators will use, but that the 
 training itself will be conducted in English. In addition, we will take your language preference into account when we form the teams.
 
-Refer to the [Calendar](https://docs.google.com/spreadsheets/d/1drNXGc4GBlAP3fsTaMfUWbK2VQGbc8bA/edit#gid=1127847901) for an overview of the schedule for each week.
-
 ### <span style="color:#4e5b73">Specialized learning</span> 
 **The Data Learning Stream**
 The Data stream provides a survey of the concepts and skills essential for becoming a data practitioner. This includes a review of the different parts of the data pipeline and relevant skills and concepts required to work with each part of this pipeline, from data collection to data presentation. Specific topics including data architectures, measures and metrics, data validation and data visualization.
